@@ -1,0 +1,7 @@
+[
+{"data":{"title":"_STA"},"attr":{"id":"72260","ColType":"Number","ColValue":"18446744073709551615"}},
+{"data":{"title":"IOInterruptSpecifiers"},"attr":{"id":"72262","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"72263","ColType":"Data","ColValue":"&lt;0d00000000000000&gt;"}}]},
+{"data":{"title":"name"},"attr":{"id":"72265","ColType":"Data","ColValue":"&lt;\"PNP0C04\"&gt;"}},
+{"data":{"title":"IOInterruptControllers"},"attr":{"id":"72267","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"72268","ColType":"String","ColValue":"io-apic-0"}}]},
+{"data":{"title":"IODeviceMemory"},"attr":{"id":"72270","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"72271","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"72272","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"address"},"attr":{"id":"72274","ColType":"Number","ColValue":"240"}},{"data":{"title":"length"},"attr":{"id":"72276","ColType":"Number","ColValue":"1"}}]}]}]}
+]

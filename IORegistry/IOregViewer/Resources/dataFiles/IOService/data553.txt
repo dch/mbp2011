@@ -1,0 +1,12 @@
+[
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"72592","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"MaxPowerState"},"attr":{"id":"72594","ColType":"Number","ColValue":"1"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"72596","ColType":"Number","ColValue":"1"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"72598","ColType":"Number","ColValue":"32768"}}]},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"72600","ColType":"String","ColValue":"IOService"}},
+{"data":{"title":"IONameMatched"},"attr":{"id":"72602","ColType":"String","ColValue":"APP0003"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"72604","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"IONameMatch"},"attr":{"id":"72606","ColType":"String","ColValue":"APP0003"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"72608","ColType":"Number","ColValue":"20000"}},
+{"data":{"title":"ams-active"},"attr":{"id":"72610","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"72612","ColType":"String","ColValue":"com.apple.driver.SMCMotionSensor"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"72614","ColType":"String","ColValue":"SMCMotionSensorClient"}},
+{"data":{"title":"IOClass"},"attr":{"id":"72616","ColType":"String","ColValue":"SMCMotionSensor"}}
+]

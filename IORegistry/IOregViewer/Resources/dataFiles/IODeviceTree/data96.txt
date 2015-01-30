@@ -1,0 +1,7 @@
+[
+{"data":{"title":"_STA"},"attr":{"id":"6718","ColType":"Number","ColValue":"18446744073709551615"}},
+{"data":{"title":"name"},"attr":{"id":"6720","ColType":"Data","ColValue":"&lt;\"APP0003\"&gt;"}},
+{"data":{"title":"compatible"},"attr":{"id":"6722","ColType":"Data","ColValue":"&lt;\"smc-sms\"&gt;"}},
+{"data":{"title":"disk-sense-level"},"attr":{"id":"6724","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"device-properties"},"attr":{"id":"6726","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"disk-sense-level"},"attr":{"id":"6728","ColType":"Number","ColValue":"1"}}]}
+]

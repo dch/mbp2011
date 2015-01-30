@@ -1,0 +1,10 @@
+[
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"46965","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"MaxPowerState"},"attr":{"id":"46967","ColType":"Number","ColValue":"1"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"46969","ColType":"Number","ColValue":"1"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"46971","ColType":"Number","ColValue":"2"}}]},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"46973","ColType":"String","ColValue":"IOSMBusController"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"46975","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"46977","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOPropertyMatch"},"attr":{"id":"46979","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"IOSMBusSmartBatteryManager"},"attr":{"id":"46981","ColType":"Boolean","ColValue":"Yes"}}]},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"46983","ColType":"String","ColValue":"com.apple.driver.AppleSmartBatteryManager"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"46985","ColType":"String","ColValue":"AppleSmartBatteryManagerUserClient"}},
+{"data":{"title":"IOClass"},"attr":{"id":"46987","ColType":"String","ColValue":"AppleSmartBatteryManager"}}
+]

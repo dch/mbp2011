@@ -1,0 +1,16 @@
+[
+{"data":{"title":"bcdDevice"},"attr":{"id":"60276","ColType":"Number","ColValue":"66"}},
+{"data":{"title":"idProduct"},"attr":{"id":"60278","ColType":"Number","ColValue":"33306"}},
+{"data":{"title":"locationID"},"attr":{"id":"60280","ColType":"Number","ColValue":"18446744073610014720"}},
+{"data":{"title":"iInterface"},"attr":{"id":"60282","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"bAlternateSetting"},"attr":{"id":"60284","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"bConfigurationValue"},"attr":{"id":"60286","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"bInterfaceProtocol"},"attr":{"id":"60288","ColType":"Number","ColValue":"255"}},
+{"data":{"title":"bInterfaceNumber"},"attr":{"id":"60290","ColType":"Number","ColValue":"2"}},
+{"data":{"title":"bInterfaceSubClass"},"attr":{"id":"60292","ColType":"Number","ColValue":"255"}},
+{"data":{"title":"idVendor"},"attr":{"id":"60294","ColType":"Number","ColValue":"1452"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"60296","ColType":"String","ColValue":"IOUSBInterfaceUserClientV3"}},
+{"data":{"title":"IOCFPlugInTypes"},"attr":{"id":"60298","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"2d9786c6-9ef3-11d4-ad51-000a27052861"},"attr":{"id":"60300","ColType":"String","ColValue":"IOUSBFamily.kext/Contents/PlugIns/IOUSBLib.bundle"}}]},
+{"data":{"title":"bNumEndpoints"},"attr":{"id":"60302","ColType":"Number","ColValue":"2"}},
+{"data":{"title":"bInterfaceClass"},"attr":{"id":"60304","ColType":"Number","ColValue":"255"}}
+]

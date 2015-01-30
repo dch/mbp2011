@@ -1,0 +1,8 @@
+[
+{"data":{"title":"IOProviderClass"},"attr":{"id":"4948","ColType":"String","ColValue":"IOACPIPlatformDevice"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"4950","ColType":"String","ColValue":"IODisplayParameters"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"4952","ColType":"String","ColValue":"com.apple.driver.AppleMuxControl"}},
+{"data":{"title":"IODisplayParameters"},"attr":{"id":"4954","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"commit"},"attr":{"id":"4956","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"reg"},"attr":{"id":"4958","ColType":"Number","ColValue":"0"}}]},{"data":{"title":"brightness"},"attr":{"id":"4960","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"max"},"attr":{"id":"4962","ColType":"Number","ColValue":"255"}},{"data":{"title":"min"},"attr":{"id":"4964","ColType":"Number","ColValue":"40"}}]}]},
+{"data":{"title":"IONameMatched"},"attr":{"id":"4966","ColType":"String","ColValue":"backlight"}},
+{"data":{"title":"IONameMatch"},"attr":{"id":"4968","ColType":"String","ColValue":"backlight"}}
+]

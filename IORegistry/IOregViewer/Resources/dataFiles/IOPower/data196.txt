@@ -1,0 +1,8 @@
+[
+{"data":{"title":"max-value"},"attr":{"id":"47504","ColType":"Number","ColValue":"8"}},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"47506","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"CurrentPowerState"},"attr":{"id":"47508","ColType":"Number","ColValue":"0"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"47510","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"Heuristic-ID"},"attr":{"id":"47512","ColType":"Data","ColValue":"&lt;ffffffff&gt;"}},
+{"data":{"title":"min-value"},"attr":{"id":"47514","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"qscOn"},"attr":{"id":"47516","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"qscOff"},"attr":{"id":"47518","ColType":"Number","ColValue":"0"}}
+]

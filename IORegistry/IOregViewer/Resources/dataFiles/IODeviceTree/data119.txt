@@ -1,0 +1,6 @@
+[
+{"data":{"title":"_STA"},"attr":{"id":"7415","ColType":"Number","ColValue":"18446744073709551615"}},
+{"data":{"title":"_UID"},"attr":{"id":"7417","ColType":"String","ColValue":"2"}},
+{"data":{"title":"name"},"attr":{"id":"7419","ColType":"Data","ColValue":"&lt;\"PNP0C01\"&gt;"}},
+{"data":{"title":"IODeviceMemory"},"attr":{"id":"7421","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"7422","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"7423","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"address"},"attr":{"id":"7425","ColType":"Number","ColValue":"536870912"}},{"data":{"title":"length"},"attr":{"id":"7427","ColType":"Number","ColValue":"2097152"}}]}]},{"data":{"title":"1"},"attr":{"id":"7428","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"7429","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"address"},"attr":{"id":"7431","ColType":"Number","ColValue":"1073741824"}},{"data":{"title":"length"},"attr":{"id":"7433","ColType":"Number","ColValue":"2097152"}}]}]}]}
+]

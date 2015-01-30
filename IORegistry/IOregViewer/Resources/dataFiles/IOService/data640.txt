@@ -1,0 +1,14 @@
+[
+{"data":{"title":"IOTTYSuffix"},"attr":{"id":"74893","ColType":"String","ColValue":""}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"74895","ColType":"String","ColValue":"com.apple.iokit.IOSerialFamily"}},
+{"data":{"title":"IOClass"},"attr":{"id":"74897","ColType":"String","ColValue":"IOSerialBSDClient"}},
+{"data":{"title":"IOTTYBaseName"},"attr":{"id":"74899","ColType":"String","ColValue":"dch-WirelessiAP"}},
+{"data":{"title":"IOSerialBSDClientType"},"attr":{"id":"74901","ColType":"String","ColValue":"IORS232SerialStream"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"74903","ColType":"Number","ColValue":"1000"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"74905","ColType":"String","ColValue":"IOBSD"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"74907","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"IOTTYDevice"},"attr":{"id":"74909","ColType":"String","ColValue":"dch-WirelessiAP"}},
+{"data":{"title":"IOCalloutDevice"},"attr":{"id":"74911","ColType":"String","ColValue":"/dev/cu.dch-WirelessiAP"}},
+{"data":{"title":"IODialinDevice"},"attr":{"id":"74913","ColType":"String","ColValue":"/dev/tty.dch-WirelessiAP"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"74915","ColType":"String","ColValue":"IOSerialStreamSync"}}
+]

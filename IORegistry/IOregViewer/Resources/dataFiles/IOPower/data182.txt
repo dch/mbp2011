@@ -1,0 +1,11 @@
+[
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"46989","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"MaxPowerState"},"attr":{"id":"46991","ColType":"Number","ColValue":"2"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"46993","ColType":"Number","ColValue":"2"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"46995","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"46997","ColType":"String","ColValue":"IOACPIPlatformDevice"}},
+{"data":{"title":"IONameMatched"},"attr":{"id":"46999","ColType":"String","ColValue":"PNP0B00"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"47001","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"IONameMatch"},"attr":{"id":"47003","ColType":"String","ColValue":"PNP0B00"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"47005","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOPlatformWakeAction"},"attr":{"id":"47007","ColType":"Number","ColValue":"10000"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"47009","ColType":"String","ColValue":"com.apple.driver.AppleRTC"}},
+{"data":{"title":"IOClass"},"attr":{"id":"47011","ColType":"String","ColValue":"AppleRTC"}}
+]

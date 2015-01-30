@@ -1,0 +1,19 @@
+[
+{"data":{"title":"Leaf"},"attr":{"id":"59958","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"Writable"},"attr":{"id":"59960","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"BSD Minor"},"attr":{"id":"59962","ColType":"Number","ColValue":"8"}},
+{"data":{"title":"IOBusyInterest"},"attr":{"id":"59964","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"IOGeneralInterest"},"attr":{"id":"59966","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"Preferred Block Size"},"attr":{"id":"59968","ColType":"Number","ColValue":"512"}},
+{"data":{"title":"BSD Major"},"attr":{"id":"59970","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"BSD Name"},"attr":{"id":"59972","ColType":"String","ColValue":"disk2"}},
+{"data":{"title":"Size"},"attr":{"id":"59974","ColType":"Number","ColValue":"3594485760"}},
+{"data":{"title":"Content Hint"},"attr":{"id":"59976","ColType":"String","ColValue":""}},
+{"data":{"title":"IOMediaIcon"},"attr":{"id":"59978","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"59980","ColType":"String","ColValue":"com.apple.iokit.IOStorageFamily"}},{"data":{"title":"IOBundleResourceFile"},"attr":{"id":"59982","ColType":"String","ColValue":"Removable.icns"}}]},
+{"data":{"title":"Removable"},"attr":{"id":"59984","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"Open"},"attr":{"id":"59986","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"BSD Unit"},"attr":{"id":"59988","ColType":"Number","ColValue":"2"}},
+{"data":{"title":"Whole"},"attr":{"id":"59990","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"Content"},"attr":{"id":"59992","ColType":"String","ColValue":"FDisk_partition_scheme"}},
+{"data":{"title":"Ejectable"},"attr":{"id":"59994","ColType":"Boolean","ColValue":"Yes"}}
+]

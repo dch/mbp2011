@@ -1,0 +1,13 @@
+[
+{"data":{"title":"boot-uuid"},"attr":{"id":"2738","ColType":"Data","ColValue":"&lt;\"D2E09143-20C9-35C5-88CD-6935559BF1A8\"&gt;"}},
+{"data":{"title":"boot-args"},"attr":{"id":"2740","ColType":"Data","ColValue":"&lt;\"keepsyms=y -v debug=0x14e kext-dev-mode=1\"&gt;"}},
+{"data":{"title":"IOScreenLockState"},"attr":{"id":"2742","ColType":"Data","ColValue":"&lt;01000000&gt;"}},
+{"data":{"title":"random-seed"},"attr":{"id":"2744","ColType":"Data","ColValue":"&lt;00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000&gt;"}},
+{"data":{"title":"name"},"attr":{"id":"2746","ColType":"Data","ColValue":"&lt;\"chosen\"&gt;"}},
+{"data":{"title":"boot-device-path"},"attr":{"id":"2748","ColType":"Data","ColValue":"&lt;02010c00d041030a0000000001010600021f03120a0000000000000004012a00020000002840060000000000b8107a15000000001d27fa9303e7d44b8003f389bece7b3d02027fff0400&gt;"}},
+{"data":{"title":"machine-signature"},"attr":{"id":"2750","ColType":"Data","ColValue":"&lt;00000000&gt;"}},
+{"data":{"title":"IOProgressColorTheme"},"attr":{"id":"2752","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"boot-file-path"},"attr":{"id":"2754","ColType":"Data","ColValue":"&lt;040450005c00530079007300740065006d005c004c006900620072006100720079005c0043006f0072006500530065007200760069006300650073005c0062006f006f0074002e0065006600690000007fff0400&gt;"}},
+{"data":{"title":"boot-file"},"attr":{"id":"2756","ColType":"Data","ColValue":"&lt;\"System\Library\PrelinkedKernels\prelinkedkernel\"&gt;"}},
+{"data":{"title":"boot-kernelcache-adler32"},"attr":{"id":"2758","ColType":"Data","ColValue":"&lt;37f38514&gt;"}}
+]

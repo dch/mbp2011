@@ -1,0 +1,4 @@
+[
+{"data":{"title":"IOControllerEnabled"},"attr":{"id":"65262","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOPrimaryDebugPort"},"attr":{"id":"65264","ColType":"Boolean","ColValue":"Yes"}}
+]

@@ -1,0 +1,15 @@
+[
+{"data":{"title":"ProductID"},"attr":{"id":"69002","ColType":"Number","ColValue":"33346"}},
+{"data":{"title":"ReportInterval"},"attr":{"id":"69004","ColType":"Number","ColValue":"8000"}},
+{"data":{"title":"Transport"},"attr":{"id":"69006","ColType":"String","ColValue":"USB"}},
+{"data":{"title":"VersionNumber"},"attr":{"id":"69008","ColType":"Number","ColValue":"22"}},
+{"data":{"title":"VendorID"},"attr":{"id":"69010","ColType":"Number","ColValue":"1452"}},
+{"data":{"title":"PrimaryUsage"},"attr":{"id":"69012","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"PrimaryUsagePage"},"attr":{"id":"69014","ColType":"Number","ColValue":"12"}},
+{"data":{"title":"BootProtocol"},"attr":{"id":"69016","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"DeviceUsagePairs"},"attr":{"id":"69018","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"69019","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"DeviceUsagePage"},"attr":{"id":"69021","ColType":"Number","ColValue":"12"}},{"data":{"title":"DeviceUsage"},"attr":{"id":"69023","ColType":"Number","ColValue":"1"}}]}]},
+{"data":{"title":"Manufacturer"},"attr":{"id":"69025","ColType":"String","ColValue":"Apple Computer, Inc."}},
+{"data":{"title":"Product"},"attr":{"id":"69027","ColType":"String","ColValue":"Apple IR"}},
+{"data":{"title":"LocationID"},"attr":{"id":"69029","ColType":"Number","ColValue":"18446744073660334080"}},
+{"data":{"title":"CountryCode"},"attr":{"id":"69031","ColType":"Number","ColValue":"0"}}
+]

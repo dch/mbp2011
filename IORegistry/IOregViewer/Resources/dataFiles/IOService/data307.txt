@@ -1,0 +1,6 @@
+[
+{"data":{"title":"Device Characteristics"},"attr":{"id":"59894","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Product Revision Level"},"attr":{"id":"59896","ColType":"String","ColValue":"0100"}},{"data":{"title":"Vendor Name"},"attr":{"id":"59898","ColType":"String","ColValue":"Kindle"}},{"data":{"title":"Product Name"},"attr":{"id":"59900","ColType":"String","ColValue":"Internal Storage"}}]},
+{"data":{"title":"IOMinimumSegmentAlignmentByteCount"},"attr":{"id":"59902","ColType":"Number","ColValue":"4"}},
+{"data":{"title":"Protocol Characteristics"},"attr":{"id":"59904","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Physical Interconnect"},"attr":{"id":"59906","ColType":"String","ColValue":"USB"}},{"data":{"title":"Physical Interconnect Location"},"attr":{"id":"59908","ColType":"String","ColValue":"External"}},{"data":{"title":"Read Time Out Duration"},"attr":{"id":"59910","ColType":"Number","ColValue":"30000"}},{"data":{"title":"Write Time Out Duration"},"attr":{"id":"59912","ColType":"Number","ColValue":"30000"}}]},
+{"data":{"title":"device-type"},"attr":{"id":"59914","ColType":"String","ColValue":"Generic"}}
+]

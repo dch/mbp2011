@@ -1,0 +1,9 @@
+[
+{"data":{"title":"ApplePanelRawBrightness"},"attr":{"id":"73380","ColType":"Number","ColValue":"726"}},
+{"data":{"title":"AppleNumBrightLevels"},"attr":{"id":"73382","ColType":"Number","ColValue":"1024"}},
+{"data":{"title":"name"},"attr":{"id":"73384","ColType":"Data","ColValue":"&lt;\"APP0002\"&gt;"}},
+{"data":{"title":"AppleRestoreBacklight"},"attr":{"id":"73386","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"_UID"},"attr":{"id":"73388","ColType":"String","ColValue":"14"}},
+{"data":{"title":"compatible"},"attr":{"id":"73390","ColType":"Data","ColValue":"&lt;\"backlight\"&gt;"}},
+{"data":{"title":"_STA"},"attr":{"id":"73392","ColType":"Number","ColValue":"11"}}
+]

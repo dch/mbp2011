@@ -1,0 +1,17 @@
+[
+{"data":{"title":"bcdDevice"},"attr":{"id":"58409","ColType":"Number","ColValue":"280"}},
+{"data":{"title":"idProduct"},"attr":{"id":"58411","ColType":"Number","ColValue":"594"}},
+{"data":{"title":"locationID"},"attr":{"id":"58413","ColType":"Number","ColValue":"18446744073610067968"}},
+{"data":{"title":"iInterface"},"attr":{"id":"58415","ColType":"Number","ColValue":"4"}},
+{"data":{"title":"bAlternateSetting"},"attr":{"id":"58417","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"bConfigurationValue"},"attr":{"id":"58419","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"USB Interface Name"},"attr":{"id":"58421","ColType":"String","ColValue":"Touchpad"}},
+{"data":{"title":"bInterfaceProtocol"},"attr":{"id":"58423","ColType":"Number","ColValue":"2"}},
+{"data":{"title":"bInterfaceNumber"},"attr":{"id":"58425","ColType":"Number","ColValue":"2"}},
+{"data":{"title":"bInterfaceSubClass"},"attr":{"id":"58427","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"idVendor"},"attr":{"id":"58429","ColType":"Number","ColValue":"1452"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"58431","ColType":"String","ColValue":"IOUSBInterfaceUserClientV3"}},
+{"data":{"title":"IOCFPlugInTypes"},"attr":{"id":"58433","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"2d9786c6-9ef3-11d4-ad51-000a27052861"},"attr":{"id":"58435","ColType":"String","ColValue":"IOUSBFamily.kext/Contents/PlugIns/IOUSBLib.bundle"}}]},
+{"data":{"title":"bNumEndpoints"},"attr":{"id":"58437","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"bInterfaceClass"},"attr":{"id":"58439","ColType":"Number","ColValue":"3"}}
+]

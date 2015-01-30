@@ -1,0 +1,9 @@
+[
+{"data":{"title":"IOMinimumSegmentAlignmentByteCount"},"attr":{"id":"69863","ColType":"Number","ColValue":"4"}},
+{"data":{"title":"Protocol Characteristics"},"attr":{"id":"69865","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Physical Interconnect Location"},"attr":{"id":"69867","ColType":"String","ColValue":"Internal"}},{"data":{"title":"Physical Interconnect"},"attr":{"id":"69869","ColType":"String","ColValue":"SATA"}}]},
+{"data":{"title":"IOCFPlugInTypes"},"attr":{"id":"69871","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"24514B7A-2804-11D6-8A02-003065704866"},"attr":{"id":"69873","ColType":"String","ColValue":"SMARTLib.plugin"}}]},
+{"data":{"title":"Device Characteristics"},"attr":{"id":"69875","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Physical Block Size"},"attr":{"id":"69877","ColType":"Number","ColValue":"512"}},{"data":{"title":"SATA Features"},"attr":{"id":"69879","ColType":"Number","ColValue":"30"}},{"data":{"title":"Product Name"},"attr":{"id":"69881","ColType":"String","ColValue":"SAMSUNG SSD 830 Series                  "}},{"data":{"title":"Product Revision Level"},"attr":{"id":"69883","ColType":"String","ColValue":"CXM03B1Q"}},{"data":{"title":"Logical Block Size"},"attr":{"id":"69885","ColType":"Number","ColValue":"512"}},{"data":{"title":"Medium Type"},"attr":{"id":"69887","ColType":"String","ColValue":"Solid State"}},{"data":{"title":"Serial Number"},"attr":{"id":"69889","ColType":"String","ColValue":"S0WKNEAC800602      "}}]},
+{"data":{"title":"IOStorageFeatures"},"attr":{"id":"69891","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Unmap"},"attr":{"id":"69893","ColType":"Boolean","ColValue":"Yes"}}]},
+{"data":{"title":"SMART Capable"},"attr":{"id":"69895","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"device-type"},"attr":{"id":"69897","ColType":"String","ColValue":"Generic"}}
+]

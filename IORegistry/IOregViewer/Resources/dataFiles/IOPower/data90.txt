@@ -1,0 +1,13 @@
+[
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"6207","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"CurrentPowerState"},"attr":{"id":"6209","ColType":"Number","ColValue":"3"}},{"data":{"title":"DevicePowerState"},"attr":{"id":"6211","ColType":"Number","ColValue":"3"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"6213","ColType":"Number","ColValue":"4"}},{"data":{"title":"ChildrenPowerState"},"attr":{"id":"6215","ColType":"Number","ColValue":"0"}},{"data":{"title":"DriverPowerState"},"attr":{"id":"6217","ColType":"Number","ColValue":"3"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"6219","ColType":"Number","ColValue":"65536"}}]},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"6221","ColType":"String","ColValue":"IOUSBDevice"}},
+{"data":{"title":"bDeviceClass"},"attr":{"id":"6223","ColType":"Number","ColValue":"9"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"6225","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"Errata"},"attr":{"id":"6227","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"6229","ColType":"Number","ColValue":"50000"}},
+{"data":{"title":"Interrupt Pending"},"attr":{"id":"6231","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"bDeviceSubClass"},"attr":{"id":"6233","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"6235","ColType":"String","ColValue":"com.apple.driver.AppleUSBHub"}},
+{"data":{"title":"IOClass"},"attr":{"id":"6237","ColType":"String","ColValue":"AppleUSBHub"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"6239","ColType":"String","ColValue":"AppleUSBHSHubUserClient"}}
+]

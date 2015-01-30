@@ -1,0 +1,676 @@
+00:00.0 Host bridge [0600]: Intel Corporation 2nd Generation Core Processor Family DRAM Controller [8086:0104] (rev 09)
+	Subsystem: Apple Inc. MacBookPro8,2 [Core i7, 15", 2011] [106b:00dc]
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B+ ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort+ >SERR- <PERR- INTx-
+	Latency: 0
+	Capabilities: [e0] Vendor Specific Information: Len=0c <?>
+00: 86 80 04 01 06 00 90 20 09 00 00 06 00 00 00 00
+10: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 6b 10 dc 00
+30: 00 00 00 00 e0 00 00 00 00 00 00 00 00 00 00 00
+40: 01 90 d1 fe 00 00 00 00 00 00 00 00 00 00 00 00
+50: 11 02 00 00 1d 00 00 00 06 00 00 00 01 00 00 8b
+60: 01 00 00 e0 00 00 00 00 01 80 d1 fe 00 00 00 00
+70: 00 00 80 ff 03 00 00 00 00 0c 80 ff 6b 10 dc 00
+80: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+90: 01 00 80 ff 03 00 00 00 01 00 d0 6f 04 00 00 00
+a0: 7f 00 00 00 04 00 00 00 01 00 e0 6f 04 00 00 00
+b0: 01 00 a0 8b 01 00 80 8b 01 00 00 8b 01 00 a0 8f
+c0: 01 00 a0 8f 00 00 00 00 00 00 00 00 00 00 00 00
+d0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+e0: 09 00 0c 01 9e 61 80 c2 90 00 08 14 00 00 00 00
+f0: 00 00 00 01 00 00 00 00 b8 0f 06 00 00 00 00 00
+
+00:02.0 VGA compatible controller [0300]: Intel Corporation 2nd Generation Core Processor Family Integrated Graphics Controller [8086:0116] (rev 09) (prog-if 00 [VGA controller])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B+ ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 16
+	Region 0: Memory at 81ac05b0000000 (64-bit, non-prefetchable)
+	Region 2: Memory at f80000000 (64-bit, prefetchable)
+	Region 4: I/O ports at 3000
+	Capabilities: [90] MSI: Enable+ Count=1/1 Maskable- 64bit-
+		Address: fee00000  Data: 4070
+	Capabilities: [d0] Power Management version 2
+		Flags: PMEClk- DSI+ D1- D2- AuxCurrent=0mA PME(D0-,D1-,D2-,D3hot-,D3cold-)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [a4] PCI Advanced Features
+		AFCap: TP+ FLR+
+		AFCtrl: FLR-
+		AFStatus: TP-
+00: 00 00 00 00 07 04 90 00 09 00 00 03 00 00 00 00
+10: 04 00 00 b0 05 ac 81 00 0c 00 00 80 0f 00 00 00
+20: 01 30 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+30: 00 00 00 00 90 00 00 00 00 00 00 00 10 01 00 00
+40: 09 00 0c 01 9e 61 80 c2 90 00 08 14 00 00 00 00
+50: 11 02 00 00 1d 00 00 00 00 00 00 00 01 00 a0 8b
+60: 00 00 02 00 00 00 00 00 00 00 00 00 00 00 00 00
+70: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+80: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+90: 05 d0 01 00 00 00 e0 fe 70 40 00 00 00 00 00 00
+a0: 00 00 00 00 13 00 06 03 00 00 00 00 00 00 00 00
+b0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+c0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+d0: 01 a4 22 00 00 00 00 00 01 00 00 00 00 00 00 00
+e0: 00 00 00 00 00 00 00 00 00 80 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 00 00 06 00 18 60 d3 8a
+
+00:16.0 Communication controller [0780]: Intel Corporation 6 Series/C200 Series Chipset Family MEI Controller #1 [8086:1c3a] (rev 04)
+	Subsystem: Intel Corporation Apple MacBookPro8,2 [Core i7, 15", 2011] [8086:7270]
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 16
+	Region 0: Memory at b0907100 (64-bit, non-prefetchable)
+	Capabilities: [50] Power Management version 3
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst+ PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [8c] MSI: Enable+ Count=1/1 Maskable- 64bit+
+		Address: 00000000fee00000  Data: 4071
+00: 86 80 3a 1c 06 04 10 00 04 00 80 07 00 00 80 00
+10: 04 71 90 b0 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 86 80 70 72
+30: 00 00 00 00 50 00 00 00 00 00 00 00 10 01 00 00
+40: 55 02 00 1e 08 00 01 80 06 00 00 61 f8 3f 00 10
+50: 01 8c 03 c8 08 00 00 00 00 00 00 00 00 00 00 00
+60: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+70: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+80: 00 00 00 00 00 00 00 00 00 00 00 00 05 00 81 00
+90: 00 00 e0 fe 00 00 00 00 71 40 00 00 00 00 00 00
+a0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+b0: 00 00 00 00 00 00 00 00 00 00 00 00 02 00 00 c0
+c0: fa 13 49 0a 92 26 2f 65 26 c7 91 6f 8b 4f ef 9d
+d0: c1 7f 45 4c 07 da 0a 17 7a 71 b1 32 87 02 81 3f
+e0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+00:1a.0 USB controller [0c03]: Intel Corporation 6 Series/C200 Series Chipset Family USB Universal Host Controller #5 [8086:1c2c] (rev 05) (prog-if 00 [UHCI])
+	Subsystem: Intel Corporation Apple MacBookPro8,2 [Core i7, 15", 2011] [8086:7270]
+	Control: I/O+ Mem- BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B+ ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin B routed to IRQ 21
+	Region 4: I/O ports at 3120
+	Capabilities: [50] PCI Advanced Features
+		AFCap: TP+ FLR+
+		AFCtrl: FLR-
+		AFStatus: TP-
+00: 86 80 2c 1c 05 00 90 02 05 00 03 0c 00 00 80 00
+10: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+20: 21 31 00 00 00 00 00 00 00 00 00 00 86 80 70 72
+30: 00 00 00 00 50 00 00 00 00 00 00 00 15 02 00 00
+40: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+50: 13 00 06 03 00 00 00 00 00 00 00 00 00 00 00 00
+60: 10 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+70: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+80: 09 00 0c 01 00 00 00 00 00 00 00 00 00 00 00 00
+90: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+a0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+b0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+c0: 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00
+d0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+e0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 87 0f 05 08 00 00 00 00
+
+00:1a.7 Non-VGA unclassified device [0000]: Intel Corporation 6 Series/C200 Series Chipset Family USB Enhanced Host Controller #2 [8086:1c2d]
+	Subsystem: Intel Corporation Server Board S1200BTS / Apple MacBook Pro 8,1/8,2 [8086:7270]
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B+ ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 23
+	Region 0: Memory at b0906c00 (32-bit, non-prefetchable)
+	Capabilities: [50] Power Management version 2
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=375mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [58] Debug port: BAR=1 offset=00a0
+	Capabilities: [98] PCI Advanced Features
+		AFCap: TP+ FLR+
+		AFCtrl: FLR-
+		AFStatus: TP-
+00: 86 80 2d 1c 06 00 90 02 00 00 00 00 00 00 00 00
+10: 00 6c 90 b0 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 86 80 70 72
+30: 00 00 00 00 50 00 00 00 00 00 00 00 17 01 00 00
+40: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+50: 01 58 c2 c9 00 00 00 00 0a 98 a0 20 00 00 00 00
+60: 20 20 ff 07 00 00 00 00 01 00 00 01 00 00 00 e0
+70: 00 00 df 3f 00 00 00 00 00 00 00 00 00 00 00 00
+80: 00 00 80 00 11 88 0c 93 30 0d 00 24 00 00 00 00
+90: 00 00 00 00 00 00 00 00 13 00 06 03 00 00 00 00
+a0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+b0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+c0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+d0: 00 00 00 00 00 aa ff 00 00 00 00 00 00 00 00 00
+e0: 00 00 00 00 03 00 00 00 00 00 00 00 64 e3 2f 0c
+f0: 00 00 00 00 88 85 80 00 87 0f 05 08 08 17 5b 20
+
+00:1b.0 Audio device [0403]: Intel Corporation 6 Series/C200 Series Chipset Family High Definition Audio Controller [8086:1c20] (rev 05)
+	Subsystem: Intel Corporation Apple MacBookPro8,2 [Core i7, 15", 2011] [8086:7270]
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 256 bytes
+	Interrupt: pin A routed to IRQ 22
+	Region 0: Memory at b0900000 (64-bit, non-prefetchable)
+	Capabilities: [50] Power Management version 2
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=55mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [60] MSI: Enable+ Count=1/1 Maskable- 64bit+
+		Address: 00000000fee00000  Data: 4072
+	Capabilities: [70] Express (v1) Root Complex Integrated Endpoint, MSI 00
+		DevCap:	MaxPayload 128 bytes, PhantFunc 0, Latency L0s <64ns, L1 <1us
+			ExtTag- RBE- FLReset-
+		DevCtl:	Report errors: Correctable- Non-Fatal- Fatal- Unsupported-
+			RlxdOrd- ExtTag- PhantFunc- AuxPwr- NoSnoop+
+			MaxPayload 128 bytes, MaxReadReq 128 bytes
+		DevSta:	CorrErr- UncorrErr- FatalErr- UnsuppReq- AuxPwr+ TransPend-
+		LnkCap:	Port #0, Speed unknown, Width x0, ASPM unknown, Latency L0 <64ns, L1 <1us
+			ClockPM- Surprise- LLActRep- BwNot-
+		LnkCtl:	ASPM Disabled; Disabled- Retrain- CommClk-
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed unknown, Width x0, TrErr- Train- SlotClk- DLActive- BWMgmt- ABWMgmt-
+00: 86 80 20 1c 06 04 10 00 05 00 03 04 40 00 00 00
+10: 04 00 90 b0 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 86 80 70 72
+30: 00 00 00 00 50 00 00 00 00 00 00 00 16 01 00 00
+40: 01 00 01 05 00 00 00 00 03 00 00 00 00 00 00 00
+50: 01 60 42 c8 00 00 00 00 00 00 00 00 00 00 00 00
+60: 05 70 81 00 00 00 e0 fe 00 00 00 00 72 40 00 00
+70: 10 00 91 00 00 00 00 10 00 08 10 00 00 00 00 00
+80: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+90: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+a0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+b0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+c0: 00 04 00 01 00 24 00 c0 00 0c a3 82 10 00 31 02
+d0: 00 0c a3 02 10 00 31 02 00 00 00 00 00 00 00 00
+e0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 87 0f 05 08 00 00 00 00
+
+00:1c.0 PCI bridge [0604]: Intel Corporation 6 Series/C200 Series Chipset Family PCI Express Root Port 1 [8086:1c10] (rev b5) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 256 bytes
+	Bus: primary=00, secondary=02, subordinate=02, sec-latency=0
+	Prefetchable memory behind bridge: 0000000fa0000000-0000000fa00fffff
+	Secondary status: 66MHz- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort+ <SERR- <PERR-
+	BridgeCtl: Parity- SERR+ NoISA- VGA- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: [40] Express (v2) Root Port (Slot+), MSI 00
+		DevCap:	MaxPayload 128 bytes, PhantFunc 0, Latency L0s <64ns, L1 <1us
+			ExtTag- RBE+ FLReset-
+		DevCtl:	Report errors: Correctable- Non-Fatal+ Fatal+ Unsupported+
+			RlxdOrd- ExtTag- PhantFunc- AuxPwr- NoSnoop-
+			MaxPayload 128 bytes, MaxReadReq 128 bytes
+		DevSta:	CorrErr- UncorrErr- FatalErr- UnsuppReq- AuxPwr+ TransPend-
+		LnkCap:	Port #1, Speed 5GT/s, Width x1, ASPM L0s L1, Latency L0 <512ns, L1 <16us
+			ClockPM- Surprise- LLActRep+ BwNot-
+		LnkCtl:	ASPM L1 Enabled; RCB 64 bytes Disabled- Retrain- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 2.5GT/s, Width x1, TrErr- Train- SlotClk+ DLActive+ BWMgmt+ ABWMgmt-
+		SltCap:	AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug- Surprise-
+			Slot #0, PowerLimit 10.000W; Interlock- NoCompl+
+		SltCtl:	Enable: AttnBtn- PwrFlt- MRL- PresDet- CmdCplt- HPIrq- LinkChg-
+			Control: AttnInd Unknown, PwrInd Unknown, Power- Interlock-
+		SltSta:	Status: AttnBtn- PowerFlt- MRL- CmdCplt- PresDet+ Interlock-
+			Changed: MRL- PresDet- LinkState+
+		RootCtl: ErrCorrectable- ErrNon-Fatal- ErrFatal- PMEIntEna- CRSVisible-
+		RootCap: CRSVisible-
+		RootSta: PME ReqID 0000, PMEStatus- PMEPending-
+		DevCap2: Completion Timeout: Range BC, TimeoutDis+ ARIFwd-
+		DevCtl2: Completion Timeout: 260ms to 900ms, TimeoutDis- ARIFwd-
+		LnkCtl2: Target Link Speed: 5GT/s, EnterCompliance- SpeedDis-, Selectable De-emphasis: -6dB
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -3.5dB, EqualizationComplete-, EqualizationPhase1-
+			 EqualizationPhase2-, EqualizationPhase3-, LinkEqualizationRequest-
+	Capabilities: [80] MSI: Enable- Count=1/1 Maskable- 64bit-
+		Address: 00000000  Data: 0000
+	Capabilities: [90] Subsystem: Intel Corporation Server Board S1200BTS / Apple MacBook Pro 8,1/8,2 [8086:7270]
+	Capabilities: [a0] Power Management version 2
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+		Bridge: PM- B3+
+00: 86 80 10 1c 07 00 10 00 b5 00 04 06 40 00 81 00
+10: 00 00 00 00 00 00 00 00 00 02 02 00 f0 00 00 20
+20: f0 ff 00 00 01 a0 01 a0 0f 00 00 00 0f 00 00 00
+30: 00 00 00 00 40 00 00 00 00 00 00 00 10 01 02 00
+40: 10 80 42 01 00 80 00 00 0e 00 10 00 12 3c 12 01
+50: 42 00 11 70 00 b2 04 00 00 00 40 01 00 00 00 10
+60: 00 00 00 00 16 00 00 00 09 00 00 00 00 00 00 00
+70: 02 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00
+80: 05 90 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+90: 0d a0 00 00 86 80 70 72 00 00 00 00 00 00 00 00
+a0: 01 00 02 c8 00 00 00 00 00 00 00 00 00 00 00 00
+b0: 00 00 00 00 05 90 00 00 00 00 00 00 00 00 00 00
+c0: 00 00 00 00 00 00 00 00 10 00 91 00 00 00 00 00
+d0: 00 00 00 01 02 0b 00 00 00 80 11 01 00 00 00 00
+e0: 00 3f 00 00 00 00 00 00 01 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+00:1c.1 PCI bridge [0604]: Intel Corporation 6 Series/C200 Series Chipset Family PCI Express Root Port 2 [8086:1c12] (rev b5) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 256 bytes
+	Bus: primary=00, secondary=03, subordinate=03, sec-latency=0
+	Memory behind bridge: b0600000-b06fffff
+	Secondary status: 66MHz- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort+ <SERR- <PERR-
+	BridgeCtl: Parity- SERR+ NoISA- VGA- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: [40] Express (v2) Root Port (Slot+), MSI 00
+		DevCap:	MaxPayload 128 bytes, PhantFunc 0, Latency L0s <64ns, L1 <1us
+			ExtTag- RBE+ FLReset-
+		DevCtl:	Report errors: Correctable- Non-Fatal+ Fatal+ Unsupported+
+			RlxdOrd- ExtTag- PhantFunc- AuxPwr- NoSnoop-
+			MaxPayload 128 bytes, MaxReadReq 128 bytes
+		DevSta:	CorrErr- UncorrErr- FatalErr- UnsuppReq- AuxPwr+ TransPend-
+		LnkCap:	Port #2, Speed 5GT/s, Width x1, ASPM L0s L1, Latency L0 <512ns, L1 <16us
+			ClockPM- Surprise- LLActRep+ BwNot-
+		LnkCtl:	ASPM L0s L1 Enabled; RCB 64 bytes Disabled- Retrain- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 2.5GT/s, Width x1, TrErr- Train- SlotClk+ DLActive+ BWMgmt+ ABWMgmt-
+		SltCap:	AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug- Surprise-
+			Slot #0, PowerLimit 10.000W; Interlock- NoCompl+
+		SltCtl:	Enable: AttnBtn- PwrFlt- MRL- PresDet- CmdCplt- HPIrq- LinkChg-
+			Control: AttnInd Unknown, PwrInd Unknown, Power- Interlock-
+		SltSta:	Status: AttnBtn- PowerFlt- MRL- CmdCplt- PresDet+ Interlock-
+			Changed: MRL- PresDet- LinkState+
+		RootCtl: ErrCorrectable- ErrNon-Fatal- ErrFatal- PMEIntEna- CRSVisible+
+		RootCap: CRSVisible-
+		RootSta: PME ReqID 0000, PMEStatus- PMEPending-
+		DevCap2: Completion Timeout: Range BC, TimeoutDis+ ARIFwd-
+		DevCtl2: Completion Timeout: 260ms to 900ms, TimeoutDis- ARIFwd-
+		LnkCtl2: Target Link Speed: 5GT/s, EnterCompliance- SpeedDis-, Selectable De-emphasis: -6dB
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -3.5dB, EqualizationComplete-, EqualizationPhase1-
+			 EqualizationPhase2-, EqualizationPhase3-, LinkEqualizationRequest-
+	Capabilities: [80] MSI: Enable- Count=1/1 Maskable- 64bit-
+		Address: 00000000  Data: 0000
+	Capabilities: [90] Subsystem: Intel Corporation Apple MacBookPro8,2 [Core i7, 15", 2011] [8086:7270]
+	Capabilities: [a0] Power Management version 2
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+00: 86 80 12 1c 07 00 10 00 b5 00 04 06 40 00 81 00
+10: 00 00 00 00 00 00 00 00 00 03 03 00 f0 00 00 20
+20: 60 b0 60 b0 f1 ff 01 00 ff ff ff ff 00 00 00 00
+30: 00 00 00 00 40 00 00 00 00 00 00 00 11 02 02 00
+40: 10 80 42 01 00 80 00 00 0e 00 10 00 12 3c 12 02
+50: 43 00 11 70 00 b2 04 00 00 00 40 01 10 80 42 01
+60: 00 00 00 00 16 00 00 00 09 00 00 00 00 00 00 00
+70: 02 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00
+80: 05 90 00 00 00 00 00 00 00 00 00 00 00 00 00 10
+90: 0d a0 00 00 86 80 70 72 86 80 70 72 00 00 00 00
+a0: 01 00 02 c8 00 00 00 00 00 00 00 00 00 00 00 00
+b0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+c0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+d0: 00 00 00 01 02 0b 00 00 00 80 11 01 00 00 00 00
+e0: 00 00 00 00 00 00 00 00 03 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 87 0f 05 08 00 00 00 00
+
+00:1c.2 PCI bridge [0604]: Intel Corporation 6 Series/C200 Series Chipset Family PCI Express Root Port 3 [8086:1c14] (rev b5) (prog-if 00 [Normal decode])
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 256 bytes
+	Bus: primary=00, secondary=04, subordinate=04, sec-latency=0
+	Memory behind bridge: b0500000-b05fffff
+	Secondary status: 66MHz- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort+ <SERR- <PERR-
+	BridgeCtl: Parity- SERR+ NoISA- VGA- MAbort- >Reset- FastB2B-
+		PriDiscTmr- SecDiscTmr- DiscTmrStat- DiscTmrSERREn-
+	Capabilities: [40] Express (v2) Root Port (Slot+), MSI 00
+		DevCap:	MaxPayload 128 bytes, PhantFunc 0, Latency L0s <64ns, L1 <1us
+			ExtTag- RBE+ FLReset-
+		DevCtl:	Report errors: Correctable- Non-Fatal+ Fatal+ Unsupported+
+			RlxdOrd- ExtTag- PhantFunc- AuxPwr- NoSnoop-
+			MaxPayload 128 bytes, MaxReadReq 128 bytes
+		DevSta:	CorrErr+ UncorrErr- FatalErr- UnsuppReq- AuxPwr+ TransPend-
+		LnkCap:	Port #3, Speed 5GT/s, Width x1, ASPM L0s L1, Latency L0 <512ns, L1 <16us
+			ClockPM- Surprise- LLActRep+ BwNot-
+		LnkCtl:	ASPM Disabled; RCB 64 bytes Disabled- Retrain- CommClk+
+			ExtSynch- ClockPM- AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 2.5GT/s, Width x1, TrErr- Train- SlotClk+ DLActive+ BWMgmt+ ABWMgmt-
+		SltCap:	AttnBtn- PwrCtrl- MRL- AttnInd- PwrInd- HotPlug- Surprise-
+			Slot #0, PowerLimit 10.000W; Interlock- NoCompl+
+		SltCtl:	Enable: AttnBtn- PwrFlt- MRL- PresDet- CmdCplt- HPIrq- LinkChg-
+			Control: AttnInd Unknown, PwrInd Unknown, Power- Interlock-
+		SltSta:	Status: AttnBtn- PowerFlt- MRL- CmdCplt- PresDet+ Interlock-
+			Changed: MRL- PresDet- LinkState+
+		RootCtl: ErrCorrectable- ErrNon-Fatal- ErrFatal- PMEIntEna- CRSVisible-
+		RootCap: CRSVisible-
+		RootSta: PME ReqID 0000, PMEStatus- PMEPending-
+		DevCap2: Completion Timeout: Range BC, TimeoutDis+ ARIFwd-
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis- ARIFwd-
+		LnkCtl2: Target Link Speed: 5GT/s, EnterCompliance- SpeedDis-, Selectable De-emphasis: -6dB
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -3.5dB, EqualizationComplete-, EqualizationPhase1-
+			 EqualizationPhase2-, EqualizationPhase3-, LinkEqualizationRequest-
+	Capabilities: [80] MSI: Enable- Count=1/1 Maskable- 64bit-
+		Address: 00000000  Data: 0000
+	Capabilities: [90] Subsystem: Intel Corporation Apple MacBookPro8,2 [Core i7, 15", 2011] [8086:7270]
+	Capabilities: [a0] Power Management version 2
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+00: 86 80 14 1c 07 00 10 00 b5 00 04 06 40 00 81 00
+10: 00 00 00 00 00 00 00 00 00 04 04 00 f0 00 00 20
+20: 50 b0 50 b0 f1 ff 01 00 ff ff ff ff 00 00 00 00
+30: 00 00 00 00 40 00 00 00 00 00 00 00 12 03 02 00
+40: 10 80 42 01 00 80 00 00 0e 00 11 00 12 3c 12 03
+50: 40 00 11 70 00 b2 04 00 00 00 40 01 00 00 00 00
+60: 00 00 00 00 16 00 00 00 00 b2 04 00 00 00 00 00
+70: 02 00 01 00 00 00 00 00 00 00 00 00 00 00 00 00
+80: 05 90 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+90: 0d a0 00 00 86 80 70 72 00 00 00 00 00 00 00 00
+a0: 01 00 02 c8 00 00 00 00 09 00 00 00 00 00 00 00
+b0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+c0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+d0: 00 00 00 01 02 0b 00 00 00 80 11 01 00 00 00 00
+e0: 00 03 00 00 00 00 00 00 01 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 87 0f 05 08 00 00 00 00
+
+00:1d.0 USB controller [0c03]: Intel Corporation 6 Series/C200 Series Chipset Family USB Universal Host Controller #1 [8086:1c27] (rev 05) (prog-if 00 [UHCI])
+	Subsystem: Intel Corporation Apple MacBookPro8,2 [Core i7, 15", 2011] [8086:7270]
+	Control: I/O+ Mem- BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B+ ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin B routed to IRQ 19
+	Region 4: I/O ports at 30c0
+	Expansion ROM at 00800000 [disabled]
+	Capabilities: [50] PCI Advanced Features
+		AFCap: TP+ FLR+
+		AFCtrl: FLR-
+		AFStatus: TP-
+00: 86 80 27 1c 05 00 90 02 05 00 03 0c 00 00 80 00
+10: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+20: c1 30 00 00 00 00 00 00 00 00 00 00 86 80 70 72
+30: 00 00 80 00 50 00 00 00 00 00 00 00 13 02 00 00
+40: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+50: 13 00 06 03 00 00 00 00 00 00 00 00 00 00 00 00
+60: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+70: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+80: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+90: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+a0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+b0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+c0: 00 00 00 00 00 00 00 00 00 00 01 00 00 00 00 00
+d0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+e0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 87 0f 05 08 00 00 00 00
+
+00:1d.7 USB controller [0c03]: Intel Corporation 6 Series/C200 Series Chipset Family USB Enhanced Host Controller #1 [8086:1c26] (rev 05) (prog-if 20 [EHCI])
+	Subsystem: Intel Corporation Server Board S1200BTS / Apple MacBook Pro 8,1/8,2 [8086:7270]
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B+ ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin A routed to IRQ 22
+	Region 0: Memory at b0906800 (32-bit, non-prefetchable)
+	Capabilities: [50] Power Management version 2
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=375mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME-
+	Capabilities: [58] Debug port: BAR=1 offset=00a0
+	Capabilities: [98] PCI Advanced Features
+		AFCap: TP+ FLR+
+		AFCtrl: FLR-
+		AFStatus: TP-
+00: 86 80 26 1c 06 00 90 02 05 20 03 0c 00 00 00 00
+10: 00 68 90 b0 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 86 80 70 72
+30: 00 00 00 00 50 00 00 00 00 00 00 00 16 01 00 00
+40: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+50: 01 58 c2 c9 00 00 00 00 0a 98 a0 20 00 00 00 00
+60: 20 20 ff 07 00 00 00 00 01 00 00 01 00 00 00 e0
+70: 00 00 df 3f 00 00 00 00 00 00 00 00 00 00 00 00
+80: 00 00 80 00 11 88 0c 93 30 0d 00 24 00 00 00 00
+90: 00 00 00 00 00 00 00 00 13 00 06 03 00 00 00 00
+a0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+b0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+c0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+d0: 00 00 00 00 00 aa ff 00 00 00 00 00 00 00 00 00
+e0: 00 00 00 00 03 00 00 00 02 00 00 00 04 f0 2f 0c
+f0: 00 00 00 00 88 85 80 00 87 0f 05 08 08 17 5b 20
+
+00:1f.0 ISA bridge [0601]: Intel Corporation HM65 Express Chipset Family LPC Controller [8086:1c49] (rev 05)
+	!!! Unknown header type 7f
+00: 86 80 49 1c 07 00 10 02 05 00 01 06 ff ff ff ff
+10: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 86 80 70 72
+30: 00 00 00 00 e0 00 00 00 00 00 00 00 00 00 00 00
+40: 01 04 00 00 00 00 00 00 01 05 00 00 10 00 00 00
+50: f8 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+60: 80 80 80 80 d0 00 00 00 80 80 80 80 f8 00 00 00
+70: f8 00 f8 00 f8 00 f8 00 f8 00 f8 00 f8 00 f8 00
+80: 70 00 0f 3f 81 06 0c 00 41 16 0c 00 00 00 00 00
+90: 01 07 fc 00 00 00 00 00 00 00 00 00 00 00 00 00
+a0: 01 03 1c 00 09 98 06 00 00 47 00 00 00 00 00 80
+b0: 00 00 00 00 00 00 00 00 88 aa 08 08 00 00 00 00
+c0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+d0: 33 22 11 00 67 45 00 00 c0 ff 00 00 00 00 00 00
+e0: 09 00 0c 10 00 00 00 00 13 06 64 0e 00 00 00 00
+f0: 01 c0 d1 fe 00 00 00 00 87 0f 05 08 00 00 00 00
+
+00:1f.2 SATA controller [0106]: Intel Corporation 6 Series/C200 Series Chipset Family 6 port SATA AHCI Controller [8086:1c03] (rev 05) (prog-if 01 [AHCI 1.0])
+	Subsystem: Intel Corporation Apple MacBookPro8,2 [Core i7, 15", 2011] [8086:7270]
+	Control: I/O+ Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz+ UDF- FastB2B+ ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0
+	Interrupt: pin B routed to IRQ 19
+	Region 0: I/O ports at 3148
+	Region 1: I/O ports at 315c
+	Region 2: I/O ports at 3140
+	Region 3: I/O ports at 3158
+	Region 4: I/O ports at 3060
+	Region 5: Memory at b0906000 (32-bit, non-prefetchable)
+	Capabilities: [80] MSI: Enable+ Count=1/1 Maskable- 64bit-
+		Address: fee00000  Data: 4075
+	Capabilities: [70] #41 [000c]
+	Capabilities: [14] #5d [0000]
+	Capabilities: [30] #00 [0000]
+00: 86 80 03 1c 07 04 b0 02 05 01 06 01 00 00 00 00
+10: 49 31 00 00 5d 31 00 00 41 31 00 00 59 31 00 00
+20: 61 30 00 00 00 60 90 b0 00 00 00 00 86 80 70 72
+30: 00 00 00 00 80 00 00 00 00 00 00 00 13 02 00 00
+40: 00 80 00 80 00 00 00 00 00 00 00 00 00 00 00 00
+50: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+60: 00 00 00 00 01 07 fc 00 00 00 00 00 00 00 00 00
+70: 01 a8 03 40 08 00 00 00 00 00 00 00 01 07 fc 00
+80: 05 70 01 00 00 00 e0 fe 75 40 00 00 00 00 00 00
+90: 60 3c 03 83 83 01 00 3c 08 42 5c 01 00 00 00 00
+a0: e0 00 00 00 39 0f 39 0f 12 b0 10 00 48 00 00 00
+b0: 13 00 06 03 00 00 00 00 00 00 00 00 00 00 00 00
+c0: 00 00 00 00 04 00 00 00 00 00 00 00 00 00 00 00
+d0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+e0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 87 0f 05 08 00 00 00 00
+
+00:1f.3 SMBus [0c05]: Intel Corporation 6 Series/C200 Series Chipset Family SMBus Controller [8086:1c22] (rev 05)
+	Subsystem: Intel Corporation Server Board S1200BTS / Apple MacBook Pro 8,1/8,2 [8086:7270]
+	Control: I/O+ Mem- BusMaster- SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap- 66MHz- UDF- FastB2B+ ParErr- DEVSEL=medium >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Interrupt: pin C routed to IRQ 18
+	Region 0: Memory at b0907000 (64-bit, non-prefetchable) [disabled]
+	Region 4: I/O ports at efa0
+00: 86 80 22 1c 01 00 80 02 05 00 05 0c 00 00 00 00
+10: 04 70 90 b0 00 00 00 00 00 00 00 00 00 00 00 00
+20: a1 ef 00 00 00 00 00 00 00 00 00 00 86 80 70 72
+30: 00 00 00 00 00 00 00 00 00 00 00 00 12 03 00 00
+40: 01 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+50: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+60: 03 04 04 00 00 00 08 08 00 00 00 00 00 00 00 00
+70: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+80: 04 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+90: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+a0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+b0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+c0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+d0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+e0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 87 0f 05 08 00 00 00 00
+
+02:00.0 Ethernet controller [0200]: Broadcom Corporation NetXtreme BCM57765 Gigabit Ethernet PCIe [14e4:16b4] (rev 10)
+	Subsystem: Broadcom Corporation NetXtreme BCM57765 Gigabit Ethernet PCIe [14e4:16b4]
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 256 bytes
+	Interrupt: pin A routed to IRQ 16
+	Region 0: Memory at fa0000000 (64-bit, prefetchable)
+	Region 2: Memory at fa0010000 (64-bit, prefetchable)
+	Capabilities: [48] Power Management version 3
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst+ PME-Enable- DSel=0 DScale=1 PME-
+	Capabilities: [58] MSI: Enable+ Count=1/8 Maskable- 64bit+
+		Address: 00000000fee00000  Data: 4078
+	Capabilities: [a0] MSI-X: Enable- Count=6 Masked-
+		Vector table: BAR=2 offset=00000000
+		PBA: BAR=0 offset=fee00000
+	Capabilities: [ac] Express (v2) Endpoint, MSI 00
+		DevCap:	MaxPayload 128 bytes, PhantFunc 0, Latency L0s <4us, L1 <64us
+			ExtTag- AttnBtn- AttnInd- PwrInd- RBE+ FLReset-
+		DevCtl:	Report errors: Correctable- Non-Fatal- Fatal- Unsupported-
+			RlxdOrd+ ExtTag- PhantFunc- AuxPwr+ NoSnoop+
+			MaxPayload 128 bytes, MaxReadReq 4096 bytes
+		DevSta:	CorrErr+ UncorrErr- FatalErr- UnsuppReq+ AuxPwr+ TransPend-
+		LnkCap:	Port #0, Speed 2.5GT/s, Width x1, ASPM L0s L1, Latency L0 <2us, L1 <64us
+			ClockPM+ Surprise- LLActRep- BwNot-
+		LnkCtl:	ASPM L1 Enabled; RCB 64 bytes Disabled- Retrain- CommClk+
+			ExtSynch- ClockPM+ AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 2.5GT/s, Width x1, TrErr- Train- SlotClk+ DLActive- BWMgmt- ABWMgmt-
+		DevCap2: Completion Timeout: Range ABCD, TimeoutDis+
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis-
+		LnkCtl2: Target Link Speed: 2.5GT/s, EnterCompliance- SpeedDis-, Selectable De-emphasis: -6dB
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete-, EqualizationPhase1-
+			 EqualizationPhase2-, EqualizationPhase3-, LinkEqualizationRequest-
+00: e4 14 b4 16 06 04 10 00 10 00 00 02 40 00 80 00
+10: 0c 00 00 a0 0f 00 00 00 0c 00 01 a0 0f 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 e4 14 b4 16
+30: 00 00 00 00 48 00 00 00 00 00 00 00 10 01 00 00
+40: 00 00 00 00 00 00 00 ca 01 58 03 c8 08 20 00 16
+50: 03 00 00 00 00 00 00 00 05 a0 87 00 00 00 e0 fe
+60: 00 00 00 00 78 40 00 00 98 02 00 f1 d0 03 f8 01
+70: 12 10 00 00 00 00 00 00 fc 6f 03 c0 00 00 00 00
+80: 42 50 52 41 f8 00 00 80 00 00 00 00 c9 02 00 00
+90: 00 00 00 00 cc 00 00 00 00 00 00 00 c7 00 00 00
+a0: 11 ac 05 00 00 00 00 00 22 01 00 00 10 00 02 00
+b0: 80 8d 90 05 10 5c 19 00 11 5c 07 00 42 01 11 10
+c0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+d0: 1f 00 00 00 00 00 00 00 00 00 00 00 01 00 00 00
+e0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 00 00 00 00 00 51 78 57
+
+02:00.1 SD Host controller [0805]: Broadcom Corporation BCM57765/57785 SDXC/MMC Card Reader [14e4:16bc] (rev 10) (prog-if 01)
+	Subsystem: Broadcom Corporation Device [14e4:0000]
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 256 bytes
+	Interrupt: pin B routed to IRQ 17
+	Region 0: Memory at fa0020000 (64-bit, prefetchable)
+	Capabilities: [48] Power Management version 3
+		Flags: PMEClk- DSI- D1- D2- AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D0 NoSoftRst+ PME-Enable- DSel=0 DScale=1 PME-
+	Capabilities: [58] MSI: Enable+ Count=1/1 Maskable- 64bit+
+		Address: 00000000fee00000  Data: 4079
+	Capabilities: [ac] Express (v2) Endpoint, MSI 00
+		DevCap:	MaxPayload 128 bytes, PhantFunc 0, Latency L0s <4us, L1 <64us
+			ExtTag- AttnBtn- AttnInd- PwrInd- RBE+ FLReset-
+		DevCtl:	Report errors: Correctable- Non-Fatal- Fatal- Unsupported-
+			RlxdOrd+ ExtTag- PhantFunc- AuxPwr+ NoSnoop+
+			MaxPayload 128 bytes, MaxReadReq 4096 bytes
+		DevSta:	CorrErr+ UncorrErr- FatalErr- UnsuppReq+ AuxPwr+ TransPend-
+		LnkCap:	Port #0, Speed 2.5GT/s, Width x1, ASPM L0s L1, Latency L0 <2us, L1 <64us
+			ClockPM+ Surprise- LLActRep- BwNot-
+		LnkCtl:	ASPM L1 Enabled; RCB 64 bytes Disabled- Retrain- CommClk+
+			ExtSynch- ClockPM+ AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 2.5GT/s, Width x1, TrErr- Train- SlotClk+ DLActive- BWMgmt- ABWMgmt-
+		DevCap2: Completion Timeout: Range ABCD, TimeoutDis+
+		DevCtl2: Completion Timeout: 50us to 50ms, TimeoutDis-
+		LnkCtl2: Target Link Speed: 2.5GT/s, EnterCompliance- SpeedDis-, Selectable De-emphasis: -6dB
+			 Transmit Margin: Normal Operating Range, EnterModifiedCompliance- ComplianceSOS-
+			 Compliance De-emphasis: -6dB
+		LnkSta2: Current De-emphasis Level: -6dB, EqualizationComplete-, EqualizationPhase1-
+			 EqualizationPhase2-, EqualizationPhase3-, LinkEqualizationRequest-
+00: e4 14 bc 16 06 04 10 00 10 01 05 08 40 00 80 00
+10: 0c 00 02 a0 0f 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 e4 14 00 00
+30: 00 00 00 00 48 00 00 00 00 00 00 00 11 02 00 00
+40: 00 00 00 00 00 00 00 00 01 58 03 c8 08 20 00 00
+50: 03 00 00 00 00 00 00 00 05 ac 81 00 00 00 e0 fe
+60: 00 00 00 00 79 40 00 00 00 00 00 00 00 00 00 00
+70: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+80: 00 00 00 00 00 00 00 00 00 00 e0 fe 00 00 00 00
+90: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+a0: 11 00 05 00 02 00 00 00 22 01 00 00 10 00 02 00
+b0: 80 8d 90 05 fc 6f 03 c0 11 5c 07 00 42 01 11 10
+c0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+d0: 1f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+e0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+03:00.0 Network controller [0280]: Broadcom Corporation BCM4331 802.11a/b/g/n [14e4:4331] (rev 02)
+	Subsystem: Apple Inc. AirPort Extreme [106b:00d6]
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx+
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 256 bytes
+	Interrupt: pin A routed to IRQ 17
+	Region 0: Memory at b0600000 (64-bit, non-prefetchable)
+	Capabilities: [40] Power Management version 3
+		Flags: PMEClk- DSI- D1+ D2+ AuxCurrent=0mA PME(D0+,D1-,D2-,D3hot+,D3cold+)
+		Status: D3 NoSoftRst+ PME-Enable+ DSel=0 DScale=2 PME-
+	Capabilities: [58] Vendor Specific Information: Len=78 <?>
+	Capabilities: [48] #00 [0000]
+00: e4 14 31 43 06 04 10 00 02 00 80 02 40 00 00 00
+10: 04 00 60 b0 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 6b 10 d6 00
+30: 00 00 00 00 40 00 00 00 00 00 00 00 11 01 00 00
+40: 01 58 03 ce 0b 41 00 00 00 00 00 00 10 5c 19 00
+50: 00 00 00 00 77 40 00 00 09 48 78 00 13 00 00 00
+60: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+70: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+80: 00 10 00 18 02 00 00 00 00 00 00 00 03 00 00 00
+90: 00 00 00 00 00 03 00 00 00 00 00 00 00 00 00 00
+a0: 00 00 00 00 00 00 00 00 00 00 01 00 00 10 10 18
+b0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+c0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+d0: 10 00 01 00 a0 8f 90 05 00 20 10 00 00 00 00 00
+e0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+f0: 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
+
+04:00.0 FireWire (IEEE 1394) [0c00]: LSI Corporation FW643 [TrueFire] PCIe 1394b Controller [11c1:5901] (rev 08) (prog-if 10 [OHCI])
+	Subsystem: LSI Corporation FW643 [TrueFire] PCIe 1394b Controller [11c1:5900]
+	Control: I/O- Mem+ BusMaster+ SpecCycle- MemWINV- VGASnoop- ParErr- Stepping- SERR- FastB2B- DisINTx-
+	Status: Cap+ 66MHz- UDF- FastB2B- ParErr- DEVSEL=fast >TAbort- <TAbort- <MAbort- >SERR- <PERR- INTx-
+	Latency: 0, Cache Line Size: 256 bytes
+	Interrupt: pin A routed to IRQ 18
+	Region 0: Memory at b0500000 (64-bit, non-prefetchable)
+	Capabilities: [44] Power Management version 3
+		Flags: PMEClk- DSI- D1+ D2+ AuxCurrent=375mA PME(D0+,D1+,D2+,D3hot+,D3cold+)
+		Status: D0 NoSoftRst- PME-Enable- DSel=0 DScale=0 PME+
+	Capabilities: [4c] MSI: Enable+ Count=1/1 Maskable- 64bit+
+		Address: 00000000fee00000  Data: 4076
+	Capabilities: [60] Express (v1) Endpoint, MSI 00
+		DevCap:	MaxPayload 256 bytes, PhantFunc 0, Latency L0s <4us, L1 <64us
+			ExtTag- AttnBtn- AttnInd- PwrInd- RBE+ FLReset-
+		DevCtl:	Report errors: Correctable- Non-Fatal- Fatal- Unsupported-
+			RlxdOrd+ ExtTag- PhantFunc- AuxPwr- NoSnoop-
+			MaxPayload 128 bytes, MaxReadReq 2048 bytes
+		DevSta:	CorrErr+ UncorrErr- FatalErr- UnsuppReq+ AuxPwr+ TransPend-
+		LnkCap:	Port #0, Speed unknown, Width x0, ASPM unknown, Latency L0 <64ns, L1 <1us
+			ClockPM- Surprise- LLActRep- BwNot-
+		LnkCtl:	ASPM Disabled; RCB 64 bytes Disabled- Retrain- CommClk+
+			ExtSynch- ClockPM+ AutWidDis- BWInt- AutBWInt-
+		LnkSta:	Speed 2.5GT/s, Width x1, TrErr- Train- SlotClk+ DLActive- BWMgmt- ABWMgmt-
+00: c1 11 01 59 06 00 10 00 08 10 00 0c 40 00 00 00
+10: 04 00 50 b0 00 00 00 00 00 00 00 00 00 00 00 00
+20: 00 00 00 00 00 00 00 00 00 00 00 00 c1 11 00 59
+30: 00 00 00 00 44 00 00 00 00 00 00 00 12 01 00 00
+40: 00 00 00 00 01 4c c3 ff 00 80 00 00 05 60 81 00
+50: 00 00 e0 fe 00 00 00 00 76 40 00 00 00 00 a1 02
+60: 10 00 01 00 81 8d 90 05 10 40 19 00 11 3c 07 00
+70: 40 01 11 10 00 00 00 00 00 00 00 00 00 00 00 00
+80: 3b 00 b1 00 ff ff ff ff 04 00 00 07 01 0f 0f 1b
+90: 11 3c 07 00 00 00 00 00 aa 43 00 20 40 01 00 00
+a0: 00 00 00 00 00 00 00 00 51 5c e7 03 10 00 00 08
+b0: 30 c0 00 00 01 80 00 00 ff ff 0f 00 00 00 00 00
+c0: 0f 00 00 00 00 00 00 00 12 50 20 00 12 50 20 00
+d0: 00 00 80 00 12 50 20 00 12 50 20 00 00 00 80 00
+e0: 0c 00 00 00 a6 8a c0 01 00 00 00 00 00 00 00 00
+f0: 40 00 00 00 4a 02 28 00 92 14 02 00 11 3c 07 00
+

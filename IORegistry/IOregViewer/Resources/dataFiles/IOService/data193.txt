@@ -1,0 +1,16 @@
+[
+{"data":{"title":"dpm"},"attr":{"id":"7926","ColType":"Data","ColValue":"&lt;01000000&gt;"}},
+{"data":{"title":"IOSourceVersion"},"attr":{"id":"7928","ColType":"String","ColValue":"0.0.0.0.0"}},
+{"data":{"title":"FeatureControl"},"attr":{"id":"7930","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"SpreadON"},"attr":{"id":"7932","ColType":"Number","ColValue":"1"}},{"data":{"title":"IgnorePanelTimings"},"attr":{"id":"7934","ColType":"Number","ColValue":"0"}},{"data":{"title":"DPM"},"attr":{"id":"7936","ColType":"Number","ColValue":"1"}},{"data":{"title":"PowerStates"},"attr":{"id":"7938","ColType":"Number","ColValue":"1"}},{"data":{"title":"Watermarks"},"attr":{"id":"7940","ColType":"Number","ColValue":"1"}},{"data":{"title":"Gamma"},"attr":{"id":"7942","ColType":"Number","ColValue":"1"}},{"data":{"title":"UseInterruptFilter"},"attr":{"id":"7944","ColType":"Number","ColValue":"1"}},{"data":{"title":"RenderStandby"},"attr":{"id":"7946","ColType":"Number","ColValue":"1"}},{"data":{"title":"SetRC6Voltage"},"attr":{"id":"7948","ColType":"Number","ColValue":"0"}},{"data":{"title":"GPUInterruptHandling"},"attr":{"id":"7950","ColType":"Number","ColValue":"1"}},{"data":{"title":"CachedEDIDDisable"},"attr":{"id":"7952","ColType":"Number","ColValue":"0"}},{"data":{"title":"MaximumSelfRefreshLevel"},"attr":{"id":"7954","ColType":"Number","ColValue":"3"}},{"data":{"title":"FBC"},"attr":{"id":"7956","ColType":"Number","ColValue":"0"}},{"data":{"title":"FastDisplayDetectDisable"},"attr":{"id":"7958","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"7960","ColType":"String","ColValue":"com.apple.driver.AppleIntelSNBGraphicsFB"}},
+{"data":{"title":"IOClass"},"attr":{"id":"7962","ColType":"String","ColValue":"AppleIntelSNBGraphicsFB"}},
+{"data":{"title":"IOPCIPrimaryMatch"},"attr":{"id":"7964","ColType":"String","ColValue":"0x01068086 0x11068086 0x16018086 01168086 01268086"}},
+{"data":{"title":"FBCControl"},"attr":{"id":"7966","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Compression"},"attr":{"id":"7968","ColType":"Number","ColValue":"0"}}]},
+{"data":{"title":"VRAM,totalsize"},"attr":{"id":"7970","ColType":"Data","ColValue":"&lt;00000020&gt;"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"7972","ColType":"Number","ColValue":"80000"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"7974","ColType":"String","ColValue":"IOFramebuffer"}},
+{"data":{"title":"IOPCIClassMatch"},"attr":{"id":"7976","ColType":"String","ColValue":"0x03000000&0xff000000"}},
+{"data":{"title":"NumFrameBuffer"},"attr":{"id":"7978","ColType":"Data","ColValue":"&lt;01&gt;"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"7980","ColType":"String","ColValue":"IOPCIDevice"}},
+{"data":{"title":"fRC6HandlingFuncs"},"attr":{"id":"7982","ColType":"Data","ColValue":"&lt;b851822080ffffff&gt;"}}
+]

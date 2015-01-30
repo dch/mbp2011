@@ -1,0 +1,17 @@
+[
+{"data":{"title":"HiddenPort"},"attr":{"id":"74917","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"PortDeviceName"},"attr":{"id":"74919","ColType":"Data","ColValue":"&lt;\"vPad\"&gt;"}},
+{"data":{"title":"BTAuthenticationRequired"},"attr":{"id":"74921","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"BTPSM"},"attr":{"id":"74923","ColType":"Number","ColValue":"3"}},
+{"data":{"title":"BTSerialConnectionType"},"attr":{"id":"74925","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"BTName"},"attr":{"id":"74927","ColType":"String","ColValue":"outgoing port - vPad-WirelessiAP"}},
+{"data":{"title":"IOTTYBaseName"},"attr":{"id":"74929","ColType":"String","ColValue":"vPad-WirelessiAP"}},
+{"data":{"title":"PortDeviceService"},"attr":{"id":"74931","ColType":"String","ColValue":"Wireless iAP"}},
+{"data":{"title":"BTRFCOMMChannel"},"attr":{"id":"74933","ColType":"Number","ColValue":"9"}},
+{"data":{"title":"BTTTYName"},"attr":{"id":"74935","ColType":"String","ColValue":"vPad-WirelessiAP"}},
+{"data":{"title":"BTBSDTTYType"},"attr":{"id":"74937","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"BTAddress"},"attr":{"id":"74939","ColType":"Data","ColValue":"&lt;74e1b6b9e3bc&gt;"}},
+{"data":{"title":"P49SerialPort"},"attr":{"id":"74941","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"BTEanbledState"},"attr":{"id":"74943","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"BTEncryptionType"},"attr":{"id":"74945","ColType":"Boolean","ColValue":"Yes"}}
+]

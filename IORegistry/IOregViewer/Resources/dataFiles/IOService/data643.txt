@@ -1,0 +1,14 @@
+[
+{"data":{"title":"IOTTYSuffix"},"attr":{"id":"74951","ColType":"String","ColValue":""}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"74953","ColType":"String","ColValue":"com.apple.iokit.IOSerialFamily"}},
+{"data":{"title":"IOClass"},"attr":{"id":"74955","ColType":"String","ColValue":"IOSerialBSDClient"}},
+{"data":{"title":"IOTTYBaseName"},"attr":{"id":"74957","ColType":"String","ColValue":"vPad-WirelessiAP"}},
+{"data":{"title":"IOSerialBSDClientType"},"attr":{"id":"74959","ColType":"String","ColValue":"IORS232SerialStream"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"74961","ColType":"Number","ColValue":"1000"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"74963","ColType":"String","ColValue":"IOBSD"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"74965","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"IOTTYDevice"},"attr":{"id":"74967","ColType":"String","ColValue":"vPad-WirelessiAP"}},
+{"data":{"title":"IOCalloutDevice"},"attr":{"id":"74969","ColType":"String","ColValue":"/dev/cu.vPad-WirelessiAP"}},
+{"data":{"title":"IODialinDevice"},"attr":{"id":"74971","ColType":"String","ColValue":"/dev/tty.vPad-WirelessiAP"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"74973","ColType":"String","ColValue":"IOSerialStreamSync"}}
+]

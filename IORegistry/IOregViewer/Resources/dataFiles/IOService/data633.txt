@@ -1,0 +1,4 @@
+[
+{"data":{"title":"IOTTYSuffix"},"attr":{"id":"74781","ColType":"String","ColValue":""}},
+{"data":{"title":"IOTTYBaseName"},"attr":{"id":"74783","ColType":"String","ColValue":"Bluetooth-Modem"}}
+]

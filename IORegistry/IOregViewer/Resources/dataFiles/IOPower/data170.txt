@@ -1,0 +1,20 @@
+[
+{"data":{"title":"AHCI Port ESATA"},"attr":{"id":"46759","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"AHCI-Built-In"},"attr":{"id":"46761","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"AHCI Port Hot Plug"},"attr":{"id":"46763","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"IOMaximumSegmentByteCountRead"},"attr":{"id":"46765","ColType":"Number","ColValue":"4194304"}},
+{"data":{"title":"Physical Interconnect Location"},"attr":{"id":"46767","ColType":"String","ColValue":"Internal"}},
+{"data":{"title":"acpi-path"},"attr":{"id":"46769","ColType":"String","ColValue":"IOACPIPlane:/_SB/PCI0@0/SATA@1f0002/PRT1@1ffff"}},
+{"data":{"title":"64-bit"},"attr":{"id":"46771","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"AHCI Port SNotification"},"attr":{"id":"46773","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"Protocol Characteristics"},"attr":{"id":"46775","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Physical Interconnect Location"},"attr":{"id":"46777","ColType":"String","ColValue":"Internal"}},{"data":{"title":"Physical Interconnect"},"attr":{"id":"46779","ColType":"String","ColValue":"SATA"}}]},
+{"data":{"title":"acpi-device"},"attr":{"id":"46781","ColType":"String","ColValue":"IOACPIPlatformDevice is not serializable"}},
+{"data":{"title":"AHCI Port ALPM"},"attr":{"id":"46783","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"Controller Characteristics"},"attr":{"id":"46785","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Product Name"},"attr":{"id":"46787","ColType":"String","ColValue":"6 Series Chipset"}},{"data":{"title":"Port Description"},"attr":{"id":"46789","ColType":"String","ColValue":"AHCI Version 1.30 Supported"}},{"data":{"title":"Vendor Name"},"attr":{"id":"46791","ColType":"String","ColValue":"Intel"}},{"data":{"title":"Port Speed"},"attr":{"id":"46793","ColType":"String","ColValue":"6 Gigabit"}}]},
+{"data":{"title":"AHCI Port Optimized Device Number"},"attr":{"id":"46795","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOMaximumSegmentCountWrite"},"attr":{"id":"46797","ColType":"Number","ColValue":"256"}},
+{"data":{"title":"IOMaximumSegmentCountRead"},"attr":{"id":"46799","ColType":"Number","ColValue":"256"}},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"46801","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"CurrentPowerState"},"attr":{"id":"46803","ColType":"Number","ColValue":"2"}},{"data":{"title":"ChildProxyPowerState"},"attr":{"id":"46805","ColType":"Number","ColValue":"2"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"46807","ColType":"Number","ColValue":"2"}},{"data":{"title":"ChildrenPowerState"},"attr":{"id":"46809","ColType":"Number","ColValue":"2"}},{"data":{"title":"DriverPowerState"},"attr":{"id":"46811","ColType":"Number","ColValue":"2"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"46813","ColType":"Number","ColValue":"32768"}}]},
+{"data":{"title":"AHCI-Ejectable"},"attr":{"id":"46815","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"IOMaximumSegmentByteCountWrite"},"attr":{"id":"46817","ColType":"Number","ColValue":"4194304"}}
+]

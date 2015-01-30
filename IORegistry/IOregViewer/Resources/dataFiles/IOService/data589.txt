@@ -1,0 +1,15 @@
+[
+{"data":{"title":"vendor"},"attr":{"id":"73681","ColType":"String","ColValue":"Apple"}},
+{"data":{"title":"Product Name"},"attr":{"id":"73683","ColType":"String","ColValue":"Disk Image Driver for MacOS X"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"73685","ColType":"String","ColValue":"com.apple.driver.DiskImages"}},
+{"data":{"title":"IOClass"},"attr":{"id":"73687","ColType":"String","ColValue":"IOHDIXController"}},
+{"data":{"title":"Vendor Name"},"attr":{"id":"73689","ColType":"String","ColValue":"Apple"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"73691","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOResourceMatch"},"attr":{"id":"73693","ColType":"String","ColValue":"IOKit"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"73695","ColType":"String","ColValue":"IOHDIXController"}},
+{"data":{"title":"revision"},"attr":{"id":"73697","ColType":"String","ColValue":"10.10v396"}},
+{"data":{"title":"model"},"attr":{"id":"73699","ColType":"String","ColValue":"Disk Image Driver for MacOS X"}},
+{"data":{"title":"Product Revision Level"},"attr":{"id":"73701","ColType":"String","ColValue":"10.10v396"}},
+{"data":{"title":"IOUserClientClass"},"attr":{"id":"73703","ColType":"String","ColValue":"IOHDIXControllerUserClient"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"73705","ColType":"String","ColValue":"IOResources"}}
+]

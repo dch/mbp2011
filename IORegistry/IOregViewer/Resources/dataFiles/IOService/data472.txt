@@ -1,0 +1,6 @@
+[
+{"data":{"title":"Device Characteristics"},"attr":{"id":"69270","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Product Revision Level"},"attr":{"id":"69272","ColType":"String","ColValue":"A905"}},{"data":{"title":"Vendor Name"},"attr":{"id":"69274","ColType":"String","ColValue":"Seagate"}},{"data":{"title":"Product Name"},"attr":{"id":"69276","ColType":"String","ColValue":"Backup+  RD"}}]},
+{"data":{"title":"IOMinimumSegmentAlignmentByteCount"},"attr":{"id":"69278","ColType":"Number","ColValue":"4"}},
+{"data":{"title":"Protocol Characteristics"},"attr":{"id":"69280","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Physical Interconnect"},"attr":{"id":"69282","ColType":"String","ColValue":"USB"}},{"data":{"title":"Physical Interconnect Location"},"attr":{"id":"69284","ColType":"String","ColValue":"External"}},{"data":{"title":"Read Time Out Duration"},"attr":{"id":"69286","ColType":"Number","ColValue":"30000"}},{"data":{"title":"Write Time Out Duration"},"attr":{"id":"69288","ColType":"Number","ColValue":"30000"}}]},
+{"data":{"title":"device-type"},"attr":{"id":"69290","ColType":"String","ColValue":"Generic"}}
+]

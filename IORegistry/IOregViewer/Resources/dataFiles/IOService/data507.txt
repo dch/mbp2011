@@ -1,0 +1,10 @@
+[
+{"data":{"title":"IOProviderClass"},"attr":{"id":"70347","ColType":"String","ColValue":"IOBlockStorageDevice"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"70349","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"70351","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"Statistics"},"attr":{"id":"70353","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Errors (Read)"},"attr":{"id":"70355","ColType":"Number","ColValue":"0"}},{"data":{"title":"Total Time (Write)"},"attr":{"id":"70357","ColType":"Number","ColValue":"359441800"}},{"data":{"title":"Latency Time (Read)"},"attr":{"id":"70359","ColType":"Number","ColValue":"0"}},{"data":{"title":"Latency Time (Write)"},"attr":{"id":"70361","ColType":"Number","ColValue":"0"}},{"data":{"title":"Bytes (Read)"},"attr":{"id":"70363","ColType":"Number","ColValue":"495504384"}},{"data":{"title":"Retries (Read)"},"attr":{"id":"70365","ColType":"Number","ColValue":"0"}},{"data":{"title":"Bytes (Write)"},"attr":{"id":"70367","ColType":"Number","ColValue":"23199744"}},{"data":{"title":"Errors (Write)"},"attr":{"id":"70369","ColType":"Number","ColValue":"0"}},{"data":{"title":"Retries (Write)"},"attr":{"id":"70371","ColType":"Number","ColValue":"0"}},{"data":{"title":"Operations (Read)"},"attr":{"id":"70373","ColType":"Number","ColValue":"109746"}},{"data":{"title":"Operations (Write)"},"attr":{"id":"70375","ColType":"Number","ColValue":"2801"}},{"data":{"title":"Total Time (Read)"},"attr":{"id":"70377","ColType":"Number","ColValue":"24060383032"}}]},
+{"data":{"title":"IOPropertyMatch"},"attr":{"id":"70379","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"device-type"},"attr":{"id":"70381","ColType":"String","ColValue":"Generic"}}]},
+{"data":{"title":"IOGeneralInterest"},"attr":{"id":"70383","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"70385","ColType":"String","ColValue":"com.apple.iokit.IOStorageFamily"}},
+{"data":{"title":"IOClass"},"attr":{"id":"70387","ColType":"String","ColValue":"IOBlockStorageDriver"}}
+]

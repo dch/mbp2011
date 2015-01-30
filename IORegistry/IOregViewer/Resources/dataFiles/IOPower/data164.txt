@@ -1,0 +1,17 @@
+[
+{"data":{"title":"AHCI-Built-In"},"attr":{"id":"46631","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"Chipset Name"},"attr":{"id":"46633","ColType":"String","ColValue":"6 Series Chipset"}},
+{"data":{"title":"IONameMatched"},"attr":{"id":"46635","ColType":"String","ColValue":"pci8086,1c03"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"46637","ColType":"String","ColValue":"com.apple.driver.AppleAHCIPort"}},
+{"data":{"title":"IOClass"},"attr":{"id":"46639","ColType":"String","ColValue":"AppleIntelPchSeriesAHCI"}},
+{"data":{"title":"Vendor Name"},"attr":{"id":"46641","ColType":"String","ColValue":"Intel"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"46643","ColType":"Number","ColValue":"2000"}},
+{"data":{"title":"IOPolledInterface"},"attr":{"id":"46645","ColType":"String","ColValue":"AppleAHCIPolledAdapter is not serializable"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"46647","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"IONameMatch"},"attr":{"id":"46649","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"46650","ColType":"String","ColValue":"pci8086,1c02"}},{"data":{"title":"1"},"attr":{"id":"46651","ColType":"String","ColValue":"pci8086,1c03"}}]},
+{"data":{"title":"IOPMResetPowerStateOnWake"},"attr":{"id":"46653","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"AHCI-CAP"},"attr":{"id":"46655","ColType":"Number","ColValue":"18446744073293332293"}},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"46657","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"CurrentPowerState"},"attr":{"id":"46659","ColType":"Number","ColValue":"2"}},{"data":{"title":"ChildProxyPowerState"},"attr":{"id":"46661","ColType":"Number","ColValue":"2"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"46663","ColType":"Number","ColValue":"2"}},{"data":{"title":"ChildrenPowerState"},"attr":{"id":"46665","ColType":"Number","ColValue":"2"}},{"data":{"title":"DriverPowerState"},"attr":{"id":"46667","ColType":"Number","ColValue":"2"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"46669","ColType":"Number","ColValue":"32768"}}]},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"46671","ColType":"String","ColValue":"IOPCIDevice"}},
+{"data":{"title":"AHCI-Ejectable"},"attr":{"id":"46673","ColType":"Boolean","ColValue":"No"}}
+]

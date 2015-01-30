@@ -1,0 +1,13 @@
+[
+{"data":{"title":"Vendor ID"},"attr":{"id":"6798","ColType":"Number","ColValue":"32902"}},
+{"data":{"title":"Revision ID"},"attr":{"id":"6800","ColType":"Number","ColValue":"2"}},
+{"data":{"title":"Port Number"},"attr":{"id":"6802","ColType":"Number","ColValue":"6"}},
+{"data":{"title":"Max Credits"},"attr":{"id":"6804","ColType":"Number","ColValue":"7"}},
+{"data":{"title":"Device ID"},"attr":{"id":"6806","ColType":"Number","ColValue":"5395"}},
+{"data":{"title":"Max In Hop ID"},"attr":{"id":"6808","ColType":"Number","ColValue":"31"}},
+{"data":{"title":"Max Out Hop ID"},"attr":{"id":"6810","ColType":"Number","ColValue":"31"}},
+{"data":{"title":"Description"},"attr":{"id":"6812","ColType":"String","ColValue":"Thunderbolt Native Host Interface Adapter"}},
+{"data":{"title":"Thunderbolt Version"},"attr":{"id":"6814","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"Hop Table"},"attr":{"id":"6816","ColType":"Array","ColValue":"0_values"},"children":[]},
+{"data":{"title":"Adapter Type"},"attr":{"id":"6818","ColType":"Number","ColValue":"2"}}
+]

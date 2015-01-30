@@ -1,0 +1,105 @@
+flashrom v0.9.7-unknown on Darwin 14.1.0 (x86_64)
+flashrom was built with libpci 3.1.9, GCC 4.2.1 (Apple Inc. build 5666) (dot 3), little endian
+Command line (8 args): /Volumes/ramdisk/DarwinDumper_v2.9.7/DarwinDumper.app/Contents/Resources/Tools/flashrom -p internal -c MX25L6405(D) -r /DarwinDumperReports/000_2015-01-30_01-25-08_MacBookPro8,2/DarwinDumper_2.9.7_Apple_X64_Yos_dch/BIOS/System/biosbackup.rom -o /DarwinDumperReports/000_2015-01-30_01-25-08_MacBookPro8,2/DarwinDumper_2.9.7_Apple_X64_Yos_dch/BIOS/System/flashrom_log.txt
+Calibrating delay loop... OS timer resolution is 1 usecs, 2253M loops per second, delay more than 10% too short (got 80% of expected delay), recalculating... 2585M loops per second, delay more than 10% too short (got 89% of expected delay), recalculating... 2422M loops per second, 10 myus = 12 us, 100 myus = 93 us, 1000 myus = 998 us, 10000 myus = 9761 us, 4 myus = 4 us, OK.
+Initializing internal programmer
+No coreboot table found.
+Using Internal DMI decoder.
+No DMI table found.
+Found chipset "Intel HM65" with PCI ID 8086:1c49. 
+This chipset is marked as untested. If you are using an up-to-date version
+of flashrom *and* were (not) able to successfully update your firmware with it,
+then please email a report to flashrom@flashrom.org including a verbose (-V) log.
+Thank you!
+Enabling flash write... Root Complex Register Block address = 0xffffc000
+GCS = 0x50f4458d: BIOS Interface Lock-Down: enabled, Boot BIOS Straps: 0x1 (reserved)
+Top Swap : enabled (A16(+) inverted)
+
+0xfff80000/0xffb80000 FWH IDSEL: 0x0
+0xfff00000/0xffb00000 FWH IDSEL: 0x0
+0xffe80000/0xffa80000 FWH IDSEL: 0x1
+0xffe00000/0xffa00000 FWH IDSEL: 0x1
+0xffd80000/0xff980000 FWH IDSEL: 0x2
+0xffd00000/0xff900000 FWH IDSEL: 0x2
+0xffc80000/0xff880000 FWH IDSEL: 0x3
+0xffc00000/0xff800000 FWH IDSEL: 0x3
+0xff700000/0xff300000 FWH IDSEL: 0x4
+0xff600000/0xff200000 FWH IDSEL: 0x5
+0xff500000/0xff100000 FWH IDSEL: 0x6
+0xff400000/0xff000000 FWH IDSEL: 0x7
+0xfff80000/0xffb80000 FWH decode enabled
+0xfff00000/0xffb00000 FWH decode enabled
+0xffe80000/0xffa80000 FWH decode enabled
+0xffe00000/0xffa00000 FWH decode enabled
+0xffd80000/0xff980000 FWH decode enabled
+0xffd00000/0xff900000 FWH decode enabled
+0xffc80000/0xff880000 FWH decode enabled
+0xffc00000/0xff800000 FWH decode enabled
+0xff700000/0xff300000 FWH decode disabled
+0xff600000/0xff200000 FWH decode disabled
+0xff500000/0xff100000 FWH decode disabled
+0xff400000/0xff000000 FWH decode disabled
+Maximum FWH chip size: 0x100000 bytesSPI Read Configuration: prefetching disabled, caching enabled, 
+BIOS_CNTL = 0x01: BIOS Lock Enable: disabled, BIOS Write Enable: enabled
+SPIBAR = 0x00000001000ca000 + 0x3800
+0x04: 0xfe7e (HSFS)
+HSFS: FDONE=0, FCERR=1, AEL=1, BERASE=3, SCIP=1, FDOPSS=1, FDV=1, FLOCKDN=1
+Warning: SPI Configuration Lockdown activated.
+Reading OPCODES... done
+        OP        Type      Pre-OP
+op[0]: 0x74, read  w/o addr, none
+op[1]: 0x14, read  w/  addr, none
+op[2]: 0x8a, write w/  addr, none
+op[3]: 0xe7, read  w/o addr, none
+op[4]: 0x0d, read  w/o addr, none
+op[5]: 0x00, write w/  addr, none
+op[6]: 0x00, write w/  addr, none
+op[7]: 0x01, write w/  addr, none
+Pre-OP 0: 0x0f, Pre-OP 1: 0x32
+0x06: 0xe6ff (HSFC)
+HSFC: FGO=1, FCYCLE=3, FDBC=38, SME=1
+0x08: 0x000048be (FADDR)
+0x50: 0x76d8380c (FRAP)
+BMWAG 0x76, BMRAG 0xd8, BRWA 0x38, BRRA 0x0c
+0x54: 0x38d88a02 FREG0: Warning: Flash Descriptor region (0x00a02000-0x018d8fff) is locked.
+0x58: 0x8a027dfc FREG1: BIOS region is unused.
+0x5C: 0xd36e0ffc FREG2: Warning: Management Engine region (0x00ffc000-0x0136efff) is read-only.
+0x60: 0xa9c87e0f FREG3: Gigabit Ethernet region is unused.
+0x64: 0x00010000 FREG4: Warning: Platform Data region (0x00000000-0x00001fff) is write-only.
+Not all flash regions are freely accessible by flashrom. This is most likely
+due to an active ME. Please see http://flashrom.org/ME for details.
+0x74: 0x3f3cec42 PR0: Warning: 0x00c42000-0x01f3cfff is write-only.
+0x78: 0xc00a0a7d PR1: Warning: 0x00a7d000-0x0000afff is read-only.
+0x7C: 0xf88a0474 PR2: Warning: 0x00474000-0x0188afff is read-only.
+0x80: 0xfb8a02eb PR3: Warning: 0x002eb000-0x01b8afff is read-only.
+0x84: 0x0000ceb9 PR4: Warning: 0x00eb9000-0x00000fff is write-only.
+Writes have been disabled for safety reasons. You can enforce write
+support with the ich_spi_force programmer option, but you will most likely
+harm your hardware! If you force flashrom you will get no support if
+something breaks. On a few mainboards it is possible to enable write
+access by setting a jumper (see its documentation or the board itself).
+0x90: 0x94 (SSFS)
+SSFS: SCIP=0, FDONE=1, FCERR=0, AEL=1
+0x91: 0x000001 (SSFC)
+SSFC: SCGO=0, ACS=0, SPOP=0, COP=0, DBC=0, SME=0, SCF=0
+0x94: 0x320f     (PREOP)
+0x96: 0xfc38     (OPTYPE)
+0x98: 0xe78a1474 (OPMENU)
+0x9C: 0x0100000d (OPMENU+4)
+0xA0: 0x0f300f00 (BBAR)
+0xC4: 0x00000001 (LVSCC)
+LVSCC: BES=0x1, WG=0, WSR=0, WEWS=0, EO=0x0, VCL=0
+0xC8: 0xe183a20f (UVSCC)
+UVSCC: BES=0x3, WG=1, WSR=1, WEWS=0, EO=0xa2, VCL=1
+0xD0: 0x72ba6616 (FPB)
+Reserved bits in BBAR not zero: 0x0f000000
+Setting BBAR to 0x00000000 failed! New value: 0x00300f00.
+
+Reading flash descriptors mapped by the chipset via FDOC/FDOD...read_ich_descriptors_via_fdo: number of regions too high (8) - failed
+Enabling hardware sequencing because some important opcode is locked.
+OK.
+The following protocols are supported: FWH, Programmer-specific.
+No EEPROM/flash device found.
+Note: flashrom can never write if the flash chip isn't found automatically.
+Restoring MMIO space at 0x1000cd8a0
+Restoring PCI config space for 00:1f:0 reg 0xdc

@@ -1,0 +1,20 @@
+[
+{"data":{"title":"IOBusyInterest"},"attr":{"id":"2700","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"system-type"},"attr":{"id":"2702","ColType":"Data","ColValue":"&lt;02&gt;"}},
+{"data":{"title":"IOConsoleSecurityInterest"},"attr":{"id":"2704","ColType":"String","ColValue":"IOCommand is not serializable"}},
+{"data":{"title":"IOInterruptControllers"},"attr":{"id":"2706","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"2707","ColType":"String","ColValue":"io-apic-0"}}]},
+{"data":{"title":"product-name"},"attr":{"id":"2709","ColType":"Data","ColValue":"&lt;\"MacBookPro8,2\"&gt;"}},
+{"data":{"title":"IOPlatformUUID"},"attr":{"id":"2711","ColType":"String","ColValue":"30352432-D566-5F0C-9679-E64C7D8DF872"}},
+{"data":{"title":"board-id"},"attr":{"id":"2713","ColType":"Data","ColValue":"&lt;\"Mac-94245A3940C91C80\"&gt;"}},
+{"data":{"title":"IOPlatformSerialNumber"},"attr":{"id":"2715","ColType":"String","ColValue":"C02FC99WDF8Y"}},
+{"data":{"title":"version"},"attr":{"id":"2717","ColType":"Data","ColValue":"&lt;\"1.0\"&gt;"}},
+{"data":{"title":"IOPolledInterface"},"attr":{"id":"2719","ColType":"String","ColValue":"SMCPolledInterface is not serializable"}},
+{"data":{"title":"IOInterruptSpecifiers"},"attr":{"id":"2721","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"2722","ColType":"Data","ColValue":"&lt;0900000005000000&gt;"}}]},
+{"data":{"title":"model"},"attr":{"id":"2724","ColType":"Data","ColValue":"&lt;\"MacBookPro8,2\"&gt;"}},
+{"data":{"title":"manufacturer"},"attr":{"id":"2726","ColType":"Data","ColValue":"&lt;\"Apple Inc.\"&gt;"}},
+{"data":{"title":"name"},"attr":{"id":"2728","ColType":"Data","ColValue":"&lt;\"/\"&gt;"}},
+{"data":{"title":"clock-frequency"},"attr":{"id":"2730","ColType":"Data","ColValue":"&lt;00e1f505&gt;"}},
+{"data":{"title":"compatible"},"attr":{"id":"2732","ColType":"Data","ColValue":"&lt;\"MacBookPro8,2\"&gt;"}},
+{"data":{"title":"serial-number"},"attr":{"id":"2734","ColType":"Data","ColValue":"&lt;44463859000000000000000000433032464339395744463859000000000000000000000000000000000000&gt;"}},
+{"data":{"title":"IOPlatformSystemSleepPolicy"},"attr":{"id":"2736","ColType":"Data","ColValue":"&lt;534c5054010006002000000020000000010000000505000008000000080000000100000000010000d4070000100000000100000005050000c5070000010000000100000005050000c407000000000000020000000d1900000000000000000000000000000d110000&gt;"}}
+]

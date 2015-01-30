@@ -1,0 +1,7 @@
+[
+{"data":{"title":"autodiskmount"},"attr":{"id":"73780","ColType":"Boolean","ColValue":"No"}},
+{"data":{"title":"Device Characteristics"},"attr":{"id":"73782","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Vendor Name"},"attr":{"id":"73784","ColType":"String","ColValue":"Apple"}},{"data":{"title":"Product Name"},"attr":{"id":"73786","ColType":"String","ColValue":"Disk Image"}},{"data":{"title":"Product Revision Level"},"attr":{"id":"73788","ColType":"String","ColValue":"10.10v396"}}]},
+{"data":{"title":"IOMinimumSegmentAlignmentByteCount"},"attr":{"id":"73790","ColType":"Number","ColValue":"4"}},
+{"data":{"title":"Protocol Characteristics"},"attr":{"id":"73792","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"Physical Interconnect Location"},"attr":{"id":"73794","ColType":"String","ColValue":"RAM"}},{"data":{"title":"Physical Interconnect"},"attr":{"id":"73796","ColType":"String","ColValue":"Virtual Interface"}}]},
+{"data":{"title":"device-type"},"attr":{"id":"73798","ColType":"String","ColValue":"Generic"}}
+]

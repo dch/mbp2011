@@ -1,0 +1,8 @@
+[
+{"data":{"title":"IOProbeScore"},"attr":{"id":"7088","ColType":"Number","ColValue":"4096"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"7090","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"7092","ColType":"String","ColValue":"com.apple.driver.AppleThunderboltPCIDownAdapter"}},
+{"data":{"title":"Adapter Type"},"attr":{"id":"7094","ColType":"Number","ColValue":"1048833"}},
+{"data":{"title":"IOClass"},"attr":{"id":"7096","ColType":"String","ColValue":"AppleThunderboltPCIDownAdapter"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"7098","ColType":"String","ColValue":"IOThunderboltPort"}}
+]

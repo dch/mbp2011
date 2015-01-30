@@ -1,0 +1,4 @@
+[
+{"data":{"title":"IOTTYSuffix"},"attr":{"id":"74947","ColType":"String","ColValue":""}},
+{"data":{"title":"IOTTYBaseName"},"attr":{"id":"74949","ColType":"String","ColValue":"vPad-WirelessiAP"}}
+]

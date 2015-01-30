@@ -1,0 +1,20 @@
+[
+{"data":{"title":"device-id"},"attr":{"id":"8990","ColType":"Data","ColValue":"&lt;2c1c0000&gt;"}},
+{"data":{"title":"vendor-id"},"attr":{"id":"8992","ColType":"Data","ColValue":"&lt;86800000&gt;"}},
+{"data":{"title":"IOName"},"attr":{"id":"8994","ColType":"String","ColValue":"pci8086,1c2c"}},
+{"data":{"title":"subsystem-vendor-id"},"attr":{"id":"8996","ColType":"Data","ColValue":"&lt;86800000&gt;"}},
+{"data":{"title":"pcidebug"},"attr":{"id":"8998","ColType":"String","ColValue":"0:26:0"}},
+{"data":{"title":"revision-id"},"attr":{"id":"9000","ColType":"Data","ColValue":"&lt;05000000&gt;"}},
+{"data":{"title":"reg"},"attr":{"id":"9002","ColType":"Data","ColValue":"&lt;00d000000000000000000000000000000000000020d0000100000000000000000000000020000000&gt;"}},
+{"data":{"title":"acpi-path"},"attr":{"id":"9004","ColType":"String","ColValue":"IOACPIPlane:/_SB/PCI0@0/UHC5@1a0000"}},
+{"data":{"title":"built-in"},"attr":{"id":"9006","ColType":"Data","ColValue":"&lt;00&gt;"}},
+{"data":{"title":"IOPCIResourced"},"attr":{"id":"9008","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"class-code"},"attr":{"id":"9010","ColType":"Data","ColValue":"&lt;00030c00&gt;"}},
+{"data":{"title":"IODeviceMemory"},"attr":{"id":"9012","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"9013","ColType":"String","ColValue":"IOSubMemoryDescriptor is not serializable"}}]},
+{"data":{"title":"acpi-device"},"attr":{"id":"9015","ColType":"String","ColValue":"IOACPIPlatformDevice is not serializable"}},
+{"data":{"title":"subsystem-id"},"attr":{"id":"9017","ColType":"Data","ColValue":"&lt;70720000&gt;"}},
+{"data":{"title":"assigned-addresses"},"attr":{"id":"9019","ColType":"Data","ColValue":"&lt;20d0008100000000203100000000000020000000&gt;"}},
+{"data":{"title":"compatible"},"attr":{"id":"9021","ColType":"Data","ColValue":"&lt;\"pci8086,7270\",\"pci8086,1c2c\",\"pciclass,0c0300\",\"UHC5\"&gt;"}},
+{"data":{"title":"name"},"attr":{"id":"9023","ColType":"Data","ColValue":"&lt;\"pci8086,1c2c\"&gt;"}},
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"9025","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"CurrentPowerState"},"attr":{"id":"9027","ColType":"Number","ColValue":"2"}},{"data":{"title":"ChildProxyPowerState"},"attr":{"id":"9029","ColType":"Number","ColValue":"2"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"9031","ColType":"Number","ColValue":"3"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"9033","ColType":"Number","ColValue":"2"}}]}
+]

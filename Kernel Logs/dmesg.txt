@@ -1,0 +1,174 @@
+l)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+BUG in process suhelperd[261]: over-released legacy external boost assertions (1 total, 1 external, 0 legacy-external)
+jnl: disk3s3: journal replay done.
+hfs: mounted sprawl on device disk3s3
+hfs: unmount initiated on Movies on device disk3s2
+AppleKeyStore:Sending lock change 0 for handle -502
+CODE SIGNING: cs_invalid_page(0x1000): p=313[GoogleSoftwareUp] final status 0x2000000, allowing (remove VALID) page
+hfs: mounted Movies on device disk3s2
+Sandbox: appleeventsd(29) deny file-read-metadata /Library/Keychains/System.keychain
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny file-read-metadata /Library
+Sandbox: appleeventsd(29) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(29) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(29) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(29) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(29) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(29) deny mach-lookup com.apple.ocspd
+Sandbox: appleeventsd(29) deny mach-lookup com.apple.ocspd
+Sandbox: bird(411) deny file-read-data /Users/dch/Library/Preferences/com.apple.security.plist
+Sandbox: bird(411) deny file-issue-extension /Users/dch/Library/Caches/com.apple.bird
+Sandbox: bird(411) deny file-issue-extension /Users/dch/Library/Caches/com.apple.bird
+Sandbox: bird(411) deny file-read-data /Users/dch/Library/Preferences/com.apple.security.plist
+Sandbox: storeaccountd(387) deny file-read-data /Users/dch/Library/Preferences/com.kapeli.dash.plist
+Sandbox: storeaccountd(387) deny file-write-create /Users/dch/Library/Caches/com.kapeli.dash/ProductionBag
+Sandbox: com.apple.Commer(479) deny file-issue-extension /Users/dch/Library/Caches/com.apple.CommerceKit.TransactionService
+Sandbox: com.apple.Commer(479) deny mach-lookup com.apple.nsurlstorage-cache
+Sandbox: com.apple.Commer(479) deny file-issue-extension /Users/dch/Library/Caches/com.apple.CommerceKit.TransactionService
+Sandbox: com.apple.Commer(479) deny mach-lookup com.apple.nsurlstorage-cache
+hfs: summary table not allowed on FS with block size of 2048
+hfs: could not initialize summary table for Google Chrome 40.0.2214.93-40.0.2214.94 Update
+hfs: mounted Google Chrome 40.0.2214.93-40.0.2214.94 Update on device disk4s2
+Sandbox: storeaccountd(387) deny file-write-create /Users/dch/Library/Caches/com.kapeli.dash/ProductionBag
+CODE SIGNING: cs_invalid_page(0x1000): p=517[ksadmin] final status 0x2000000, allowing (remove VALID) page
+CODE SIGNING: cs_invalid_page(0x1000): p=520[ksadmin] final status 0x2000000, allowing (remove VALID) page
+CODE SIGNING: cs_invalid_page(0x1000): p=522[ksadmin] final status 0x2000000, allowing (remove VALID) page
+Sandbox: storeaccountd(387) deny file-write-create /Users/dch/Library/Caches/com.kapeli.dash/ProductionBag
+Sandbox: Dash(416) System Policy: deny file-write-unlink /Users/dch/Library/Saved Application State/com.kapeli.dash.savedState/restorecount.plist
+BUG in process suhelperd[261]: over-released legacy external boost assertions (0 total, 0 external, 0 legacy-external)
+Sandbox: iTerm2(422) System Policy: deny file-write-unlink /Users/dch/Library/Saved Application State/com.googlecode.iterm2.savedState/restorecount.plist
+CODE SIGNING: cs_invalid_page(0x1000): p=2786[ksadmin] final status 0x2000000, allowing (remove VALID) page
+hfs: unmount initiated on Google Chrome 40.0.2214.93-40.0.2214.94 Update on device disk4s2
+ZFS: unlinked drain (Total entries: 0).
+ZFS: unlinked drain (Total entries: 0).
+ZFS: unlinked drain (Total entries: 0).
+ZFS: unlinked drain (Total entries: 0).
+ZFS: unlinked drain (Total entries: 0).
+ZFS: unlinked drain (Total entries: 2).
+ZFS: unlinked drain completed (2).
+ZFS: unlinked drain (Total entries: 0).
+ZFS: unlinked drain (Total entries: 0).
+ZFS: unlinked drain (Total entries: 6).
+ZFS: unlinked drain completed (6).
+ZFS: unlinked drain (Total entries: 0).
+CODE SIGNING: cs_invalid_page(0x10a670000): p=3039[python] final status 0x2000000, allowing (remove VALID) page
+BootCache: too many history clusters (150, limit 151)
+hfs: mounted ramdisk on device disk4
+CODE SIGNING: cs_invalid_page(0x108b93000): p=3150[python] final status 0x2000000, allowing (remove VALID) page
+Sandbox: sshd(3162) deny mach-lookup com.apple.system.opendirectoryd.libinfo
+CODE SIGNING: cs_invalid_page(0x1041e3000): p=3188[python] final status 0x2000000, allowing (remove VALID) page
+Sandbox: QuickLookSatelli(3233) deny mach-register com.apple.CFPasteboardClient
+hfs: mounted Recovery HD on device disk1s3
+hfs: unmount initiated on Recovery HD on device disk1s3
+CODE SIGNING: cs_invalid_page(0x107fec000): p=4582[python] final status 0x2000000, allowing (remove VALID) page
+CODE SIGNING: cs_invalid_page(0x106f5c000): p=4672[python] final status 0x2000000, allowing (remove VALID) page
+CODE SIGNING: cs_invalid_page(0x103387000): p=4849[python] final status 0x2000000, allowing (remove VALID) page

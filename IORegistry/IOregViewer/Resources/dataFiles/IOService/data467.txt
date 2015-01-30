@@ -1,0 +1,10 @@
+[
+{"data":{"title":"Preferred Interface"},"attr":{"id":"69093","ColType":"Array","ColValue":"0_values"},"children":[{"data":{"title":"0"},"attr":{"id":"69094","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"priority"},"attr":{"id":"69096","ColType":"Number","ColValue":"1"}},{"data":{"title":"bInterfaceClass"},"attr":{"id":"69098","ColType":"Number","ColValue":"224"}}]}]},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"69100","ColType":"String","ColValue":"IOUSBDevice"}},
+{"data":{"title":"bDeviceClass"},"attr":{"id":"69102","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"69104","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"69106","ColType":"Number","ColValue":"50000"}},
+{"data":{"title":"bDeviceSubClass"},"attr":{"id":"69108","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"69110","ColType":"String","ColValue":"com.apple.driver.AppleUSBComposite"}},
+{"data":{"title":"IOClass"},"attr":{"id":"69112","ColType":"String","ColValue":"IOUSBCompositeDriver"}}
+]

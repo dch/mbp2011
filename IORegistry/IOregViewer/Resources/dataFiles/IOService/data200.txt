@@ -1,0 +1,14 @@
+[
+{"data":{"title":"device_type"},"attr":{"id":"8351","ColType":"String","ColValue":"gpu-control"}},
+{"data":{"title":"location"},"attr":{"id":"8353","ColType":"String","ColValue":"primary-gpu-control"}},
+{"data":{"title":"dpm"},"attr":{"id":"8355","ColType":"Number","ColValue":"1"}},
+{"data":{"title":"reg"},"attr":{"id":"8357","ColType":"Number","ColValue":"16"}},
+{"data":{"title":"type"},"attr":{"id":"8359","ColType":"String","ColValue":"gpu-control"}},
+{"data":{"title":"zone"},"attr":{"id":"8361","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"min-value"},"attr":{"id":"8363","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"max-value"},"attr":{"id":"8365","ColType":"Number","ColValue":"15"}},
+{"data":{"title":"version"},"attr":{"id":"8367","ColType":"Number","ColValue":"2"}},
+{"data":{"title":"compatible"},"attr":{"id":"8369","ColType":"String","ColValue":"gpu-control"}},
+{"data":{"title":"name"},"attr":{"id":"8371","ColType":"Data","ColValue":"&lt;\"gpu-control\"&gt;"}},
+{"data":{"title":"control-id"},"attr":{"id":"8373","ColType":"Number","ColValue":"16"}}
+]

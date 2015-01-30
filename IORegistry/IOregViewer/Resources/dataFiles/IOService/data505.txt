@@ -1,0 +1,18 @@
+[
+{"data":{"title":"NCQ"},"attr":{"id":"70279","ColType":"Boolean","ColValue":"Yes"}},
+{"data":{"title":"IOMaximumBlockCountWrite"},"attr":{"id":"70281","ColType":"Number","ColValue":"65536"}},
+{"data":{"title":"Physical Block Size"},"attr":{"id":"70283","ColType":"Number","ColValue":"512"}},
+{"data":{"title":"Physical Interconnect Location"},"attr":{"id":"70285","ColType":"String","ColValue":"Internal"}},
+{"data":{"title":"Revision"},"attr":{"id":"70287","ColType":"String","ColValue":"CXM03B1Q"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"70289","ColType":"String","ColValue":"com.apple.iokit.IOAHCIBlockStorage"}},
+{"data":{"title":"IOClass"},"attr":{"id":"70291","ColType":"String","ColValue":"AppleAHCIDiskDriver"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"70293","ColType":"Number","ColValue":"0"}},
+{"data":{"title":"SATA Features"},"attr":{"id":"70295","ColType":"Number","ColValue":"30"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"70297","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"Serial Number"},"attr":{"id":"70299","ColType":"String","ColValue":"S0Y0NEAC800551      "}},
+{"data":{"title":"Model"},"attr":{"id":"70301","ColType":"String","ColValue":"SAMSUNG SSD 830 Series                  "}},
+{"data":{"title":"Logical Block Size"},"attr":{"id":"70303","ColType":"Number","ColValue":"512"}},
+{"data":{"title":"IOMaximumBlockCountRead"},"attr":{"id":"70305","ColType":"Number","ColValue":"65536"}},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"70307","ColType":"String","ColValue":"IOAHCIDevice"}},
+{"data":{"title":"Queue Depth"},"attr":{"id":"70309","ColType":"Number","ColValue":"32"}}
+]

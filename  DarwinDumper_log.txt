@@ -1,0 +1,136 @@
+========================================================
+Welcome to DarwinDumper 2.9.7
+Fri 30 Jan 2015 01:25:08 CET
+System Version: OS X 10.10.2 (14C106a)
+========================================================
+Initialisation info
+--------------------------------------------------------
+*Reading /Users/dch/Library/Preferences/org.tom.DarwinDumper.plist
+*Found save path /DarwinDumperReports
+*Found previous option: acpi
+*Found previous option: acpiFromMem
+*Found previous option: biosVideo
+*Found previous option: devprop
+*Found previous option: edid
+*Found previous option: firmmemmap
+*Found previous option: ioreg
+*Found previous option: lspci
+*Found previous option: memIntelGraphics
+*Save path verify: Path exists.
+*Symlink check: Symlink has not been created.
+*Version check: This is the latest version.
+*UI: User clicked the run button
+*Save path verify: Path exists.
+*Save path verify: Path is writeable.
+*Save path verify: Path ends with DarwinDumperReports.
+*User Chose: Not to archive
+*User Chose: No Report
+*User Chose: System BIOS
+*User Chose: Video BIOS
+*User Chose: Firmware Memory Map
+*User Chose: Kernel dmesg
+*User Chose: LSPCI
+*User Chose: ACPI tables
+*User Chose: CPU Information
+*User Chose: Device Properties
+*User Chose: DMI Tables
+*User Chose: IORegistry
+*User Chose: Kernel Info
+--------------------------------------------------------
+          Attempting to dump kernel buffer using dmesg...
+001s : +Started process DumpFilesKernelLogs: pid 6263
+          Check: /Kernel Logs/dmesg.txt created.
+001s : +Started process DumpFilesBiosROM: pid 6267
+001s : -Completed DumpFilesKernelLogs
+001s : +Started process DumpFilesBiosVideoROM: pid 6273
+          Driver: Loading DirectHW
+          Driver: Loading RadeonPCI
+          Driver: DirectHW loaded successfully.
+          Driver: RadeonPCI loaded successfully.
+          Running RadeonDump
+          Number of legacy VBIOS ROM's dumped: 0
+          Driver: Unloading RadeonPCI
+          Driver: RadeonPCI successfully unloaded.
+          Multiple flash chip definitions match the detected chip(s)
+          Running flashrom with chipname MX25L6405(D)
+          Note: System Profiler shows more GPUs than dumped VBIOS ROM's.
+          Number of ATI ROM images found in IORegistry: 1
+          Extracted legacy VBIOS ROM from IORegistry
+          Decoded VBIOS ROM file:1002.6760.from_ioreg_0.rom
+          Disassembled VBIOS ROM file:1002.6760.from_ioreg_0.rom
+003s : -Completed DumpFilesBiosVideoROM
+          Check: ** /BIOS/System/biosbackup.rom failed to be created.
+          Driver: Unloading DirectHW
+          Driver: DirectHW successfully unloaded.
+005s : -Completed DumpFilesBiosROM
+005s : +Started process DumpFilesAcpiTables: pid 6365
+005s : +Started process DumpFilesFirmwareMemoryMap: pid 6369
+005s : +Started process DumpFilesDeviceProperties: pid 6375
+005s : +Started process DumpFilesKernelInfo: pid 6382
+          Check: /Kernel Info/sysctl_cpu.txt created.
+          Check: /Device Properties/device-properties.hex created.
+          Check: /Device Properties/device-properties.plist created.
+006s : -Completed DumpFilesDeviceProperties
+          Found ACPI table: SSDT-5
+          Found ACPI table: RSDT
+          Disassembled ACPI table: RSDT
+          Found ACPI table: SSDT-8
+          Found ACPI table: SSDT-2
+          Found ACPI table: SSDT-7
+          Found ACPI table: SSDT-1
+          Found ACPI table: SSDT
+          Found ACPI table: SSDT-6
+          Found ACPI table: HPET
+          Disassembled ACPI table: HPET
+          Found ACPI table: APIC
+          Check: /Kernel Info/sysctl_hw.txt created.
+          Check: /Kernel Info/sysctl_machdep_xcpm.txt created.
+006s : -Completed DumpFilesKernelInfo
+          Disassembled ACPI table: APIC
+          Found ACPI table: SBST
+          Disassembled ACPI table: SBST
+          Found ACPI table: MCFG
+          Disassembled ACPI table: MCFG
+          Found ACPI table: FACP
+          Disassembled ACPI table: FACP
+          Found ACPI table: DSDT
+          Found ACPI table: FACS
+          Disassembled ACPI table: FACS
+          Found ACPI table: ECDT
+          Disassembled ACPI table: ECDT
+          Found ACPI table: SSDT-4
+          Found ACPI table: SSDT-3
+          Disassembling DSDT and SSDT's (10 files in total) as multiple tables from single namespace...
+          Disassembling was successful.
+007s : -Completed AcpiTables
+          Check: /Memory/FirmwareMemoryMap.txt created.
+030s : -Completed DumpFilesFirmwareMemoryMap
+030s : +Started process DumpFilesLspci: pid 6618
+          Update pciids database
+030s : +Started process DumpFilesDmiTables: pid 6621
+030s : +Started process DumpFilesCpuInfo: pid 6628
+          Check: /DMI Tables/SMBIOS.bin created.
+          Check: /DMI Tables/SMBIOS.txt created.
+031s : -Completed DumpFilesDmiTables
+          Update pciids
+          Dumping LSPCI info...
+          Driver: Loading DirectHW
+          Check: /CPU/cpuinfo.txt created.
+031s : -Completed DumpFilesCpuInfo
+          Driver: DirectHW loaded successfully.
+          Check: /LSPCI/lspci (nnvv).txt created.
+          Check: /LSPCI/lspci detailed (nnvvbxxxx).txt created.
+          Check: /LSPCI/lspci tree (nnvvt).txt created.
+          Check: /LSPCI/lspci map (M).txt created.
+          Driver: Unloading DirectHW
+          Driver: DirectHW successfully unloaded.
+032s : -Completed DumpFilesLspci
+          Running ioregwv...
+032s : +Started process DumpFilesIoreg: pid 6671
+036s : -Completed DumpFilesIoreg
+========================================================
+Dumps complete after: 36 seconds
+--------------------------------------------------------
+========================================================
+DarwinDumper Completed in: 36 seconds
+========================================================

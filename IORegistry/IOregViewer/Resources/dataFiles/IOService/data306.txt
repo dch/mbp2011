@@ -1,0 +1,13 @@
+[
+{"data":{"title":"IOPowerManagement"},"attr":{"id":"59854","ColType":"Dictionary","ColValue":"0_values"},"children":[{"data":{"title":"DevicePowerState"},"attr":{"id":"59856","ColType":"Number","ColValue":"4"}},{"data":{"title":"CapabilityFlags"},"attr":{"id":"59858","ColType":"Number","ColValue":"49216"}},{"data":{"title":"ActivityTickles"},"attr":{"id":"59860","ColType":"Number","ColValue":"3"}},{"data":{"title":"DriverPowerState"},"attr":{"id":"59862","ColType":"Number","ColValue":"1"}},{"data":{"title":"CurrentPowerState"},"attr":{"id":"59864","ColType":"Number","ColValue":"4"}},{"data":{"title":"MaxPowerState"},"attr":{"id":"59866","ColType":"Number","ColValue":"4"}},{"data":{"title":"IdleTimerPeriod"},"attr":{"id":"59868","ColType":"Number","ColValue":"200000"}},{"data":{"title":"IdleTimerElapsedTime"},"attr":{"id":"59870","ColType":"Number","ColValue":"24648"}},{"data":{"title":"TimeSinceLastTickle"},"attr":{"id":"59872","ColType":"Number","ColValue":"24588"}}]},
+{"data":{"title":"IOProviderClass"},"attr":{"id":"59874","ColType":"String","ColValue":"IOSCSIPeripheralDeviceNub"}},
+{"data":{"title":"IOMatchCategory"},"attr":{"id":"59876","ColType":"String","ColValue":"IODefaultMatchCategory"}},
+{"data":{"title":"IOMaximumByteCountWrite"},"attr":{"id":"59878","ColType":"Number","ColValue":"131072"}},
+{"data":{"title":"IOProbeScore"},"attr":{"id":"59880","ColType":"Number","ColValue":"5000"}},
+{"data":{"title":"IOMaximumByteCountRead"},"attr":{"id":"59882","ColType":"Number","ColValue":"131072"}},
+{"data":{"title":"IOMaximumBlockCountWrite"},"attr":{"id":"59884","ColType":"Number","ColValue":"256"}},
+{"data":{"title":"CFBundleIdentifier"},"attr":{"id":"59886","ColType":"String","ColValue":"com.apple.iokit.IOSCSIBlockCommandsDevice"}},
+{"data":{"title":"IOMaximumBlockCountRead"},"attr":{"id":"59888","ColType":"Number","ColValue":"256"}},
+{"data":{"title":"IOClass"},"attr":{"id":"59890","ColType":"String","ColValue":"IOSCSIPeripheralDeviceType00"}},
+{"data":{"title":"Peripheral Device Type"},"attr":{"id":"59892","ColType":"Number","ColValue":"0"}}
+]
